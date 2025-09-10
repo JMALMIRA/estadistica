@@ -1,0 +1,7 @@
+pillow
+matplotlib
+numpy
+cryptography
+pandas
+scipy
+seaborn
