@@ -1,0 +1,1642 @@
+"Nombre" "Plataforma" "Fecha" "Genero" "VentasEEUU" "VentasEU" "VentasJP" "VentasOtros" "Ventas"
+"18" "Grand Theft Auto: San Andreas" "PS2" "2004" "Action" 9.43 0.4 0.41 10.57 20.81
+"25" "Grand Theft Auto: Vice City" "PS2" "2002" "Action" 8.41 5.49 0.47 1.78 16.15
+"39" "Grand Theft Auto III" "PS2" "2001" "Action" 6.99 4.51 0.3 1.3 13.1
+"60" "Super Mario 64" "DS" "2004" "Platform" 5.08 3.11 1.25 0.98 10.42
+"91" "Grand Theft Auto: Liberty City Stories" "PSP" "2005" "Action" 2.9 2.83 0.24 1.75 7.72
+"136" "Super Mario Sunshine" "GC" "2002" "Platform" 4.01 1.26 0.87 0.17 6.31
+"143" "Metal Gear Solid 2: Sons of Liberty" "PS2" "2001" "Action" 2.45 2.01 0.87 0.72 6.05
+"163" "Super Mario Advance" "GBA" "2001" "Platform" 3.14 1.24 0.91 0.2 5.49
+"165" "Super Mario World" "GBA" "2001" "Platform" 3.21 1.11 0.95 0.2 5.46
+"168" "Crash Bandicoot: The Wrath of Cortex" "PS2" "2001" "Platform" 2.07 2.29 0.24 0.82 5.42
+"183" "Super Mario Bros. 3" "GBA" "2003" "Platform" 2.93 1.25 0.83 0.2 5.2
+"212" "Madden NFL 06" "PS2" "2005" "Sports" 3.98 0.26 0.01 0.66 4.91
+"228" "The Lord of the Rings: The Two Towers" "PS2" "2002" "Action" 1.94 1.95 0.08 0.7 4.67
+"233" "The Legend of Zelda: The Wind Waker" "GC" "2002" "Action" 2.6 0.99 0.89 0.13 4.6
+"239" "Madden NFL 2005" "PS2" "2004" "Sports" 4.18 0.26 0.01 0.08 4.53
+"242" "Spider-Man: The Movie" "PS2" "2002" "Action" 2.71 1.51 0.03 0.23 4.48
+"246" "God of War" "PS2" "2005" "Action" 2.71 1.29 0.02 0.43 4.45
+"249" "Tony Hawk's Pro Skater 3" "PS2" "2001" "Sports" 2.66 1.29 0.01 0.46 4.41
+"266" "Metal Gear Solid 3: Snake Eater" "PS2" "2004" "Action" 1.46 0 0.83 1.93 4.23
+"270" "FIFA Soccer 06" "PS2" "2005" "Sports" 0.78 2.55 0.04 0.84 4.21
+"280" "Madden NFL 2003" "PS2" "2002" "Sports" 3.36 0.21 0.01 0.56 4.14
+"293" "World Soccer Winning Eleven 9" "PS2" "2005" "Sports" 0.12 2.26 0.9 0.77 4.06
+"307" "Tony Hawk's Underground" "PS2" "2003" "Sports" 2.29 1.17 0.01 0.42 3.9
+"316" "World Soccer Winning Eleven 8 International" "PS2" "2004" "Sports" 0.16 1.89 1.12 0.68 3.85
+"331" "Harry Potter and the Sorcerer's Stone" "PS" "2001" "Action" 1.37 2 0.14 0.22 3.73
+"335" "FIFA Soccer 2005" "PS2" "2004" "Sports" 0.58 2.48 0.04 0.59 3.7
+"340" "Tony Hawk's Pro Skater 4" "PS2" "2002" "Sports" 2.13 1.18 0.01 0.35 3.67
+"346" "Jak and Daxter: The Precursor Legacy" "PS2" "2001" "Platform" 2.08 1.09 0.15 0.33 3.64
+"351" "Resident Evil 4" "PS2" "2005" "Action" 2.08 0.83 0.46 0.25 3.62
+"357" "Luigi's Mansion" "GC" "2001" "Action" 2.38 0.67 0.46 0.1 3.6
+"362" "The Getaway" "PS2" "2002" "Action" 1.23 1.77 0.05 0.49 3.54
+"365" "LEGO Star Wars: The Video Game" "PS2" "2005" "Action" 1.98 1.14 0.01 0.41 3.53
+"391" "Spider-Man 2" "PS2" "2004" "Action" 1.75 1.2 0.02 0.43 3.41
+"393" "FIFA Soccer 2003" "PS2" "2002" "Sports" 0.46 2.28 0.05 0.61 3.4
+"405" "Ratchet & Clank" "PS2" "2002" "Platform" 1.44 1.01 0.57 0.3 3.33
+"407" "Star Wars Episode III: Revenge of the Sith" "PS2" "2005" "Action" 1.47 1.39 0.03 0.43 3.32
+"409" "The Lord of the Rings: The Return of the King" "PS2" "2003" "Action" 1.5 1.28 0.05 0.46 3.28
+"412" "True Crime: Streets of LA" "PS2" "2003" "Action" 1.89 1.05 0.02 0.31 3.27
+"429" "Enter the Matrix" "PS2" "2003" "Action" 1.78 1.12 0.09 0.19 3.18
+"438" "Sonic Rush" "DS" "2005" "Platform" 1.22 1.57 0.06 0.29 3.15
+"452" "Madden NFL 2002" "PS2" "2001" "Sports" 2.5 0.16 0.01 0.42 3.08
+"465" "Tom Clancy's Splinter Cell" "XB" "2002" "Action" 1.85 1.04 0 0.13 3.02
+"467" "WWE SmackDown! Shut Your Mouth" "PS2" "2002" "Sports" 1.45 1.13 0.07 0.38 3.02
+"475" "World Soccer Winning Eleven 6 International" "PS2" "2002" "Sports" 0.12 1.26 1.16 0.45 2.99
+"476" "Devil May Cry" "PS2" "2001" "Action" 1.36 0.86 0.64 0.13 2.99
+"481" "Sonic Heroes" "PS2" "2003" "Platform" 1.04 1.37 0.06 0.49 2.96
+"483" "Hitman 2: Silent Assassin" "PS2" "2002" "Action" 1.36 1.15 0.04 0.41 2.96
+"493" "Super Mario World 2: Yoshi's Island" "GBA" "2002" "Platform" 1.75 0.45 0.62 0.09 2.91
+"498" "World Soccer Winning Eleven 7 International" "PS2" "2003" "Sports" 0.08 1.24 1.13 0.45 2.9
+"500" "Hot Shots Golf 3" "PS2" "2001" "Sports" 0.99 0.32 1.38 0.2 2.89
+"521" "Finding Nemo" "GBA" "2003" "Action" 1.59 1.05 0.04 0.14 2.82
+"535" "NBA Street" "PS2" "2001" "Sports" 2.19 0.22 0 0.38 2.79
+"538" "Jak II" "PS2" "2003" "Platform" 1.68 0.74 0 0.36 2.78
+"540" "Ratchet & Clank: Going Commando" "PS2" "2003" "Platform" 1.44 0.83 0.26 0.25 2.78
+"552" "The Legend of Zelda: A Link to the Past" "GBA" "2002" "Action" 1.75 0.52 0.33 0.1 2.7
+"553" "Onimusha: Warlords" "PS2" "2001" "Action" 0.99 0.48 1.09 0.14 2.7
+"571" "Tom Clancy's Splinter Cell" "PS2" "2003" "Action" 1.15 1.11 0 0.4 2.65
+"581" "ESPN NFL 2K5" "PS2" "2004" "Sports" 2.15 0.12 0 0.36 2.62
+"587" "Harry Potter and the Chamber of Secrets" "PS2" "2002" "Action" 0.9 1.22 0.04 0.44 2.61
+"592" "NBA Live 2005" "PS2" "2004" "Sports" 2.03 0.21 0 0.35 2.59
+"598" "Ratchet & Clank: Up Your Arsenal" "PS2" "2004" "Platform" 1.31 0.74 0.31 0.22 2.57
+"602" "Sonic Adventure 2 Battle" "GC" "2001" "Platform" 1.7 0.59 0.21 0.07 2.56
+"618" "Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City" "XB" "2003" "Action" 1.84 0.56 0 0.09 2.49
+"667" "The Incredibles" "PS2" "2004" "Action" 0.96 1.08 0.04 0.3 2.37
+"668" "Tony Hawk's Underground 2" "PS2" "2004" "Sports" 1.25 0.86 0.01 0.26 2.37
+"679" "Resident Evil - Code: Veronica X" "PS2" "2001" "Action" 1.08 0.7 0.34 0.21 2.34
+"709" "Kirby: Nightmare in Dream Land" "GBA" "2002" "Platform" 1.22 0.1 0.91 0.04 2.27
+"710" "Wario Land 4" "GBA" "2001" "Platform" 0.9 0.73 0.54 0.09 2.26
+"721" "Sonic Advance" "GBA" "2001" "Platform" 1.19 0.71 0.22 0.13 2.24
+"722" "Spyro: Season of Ice" "GBA" "2001" "Platform" 1.29 0.83 0 0.11 2.23
+"727" "Prince of Persia: The Sands of Time" "PS2" "2003" "Action" 0.88 1.03 0 0.31 2.22
+"784" "Dynasty Warriors 4" "PS2" "2003" "Action" 0.63 0.21 1.13 0.13 2.11
+"787" "Scooby-Doo! Night of 100 Frights" "PS2" "2002" "Platform" 1.17 0.72 0 0.22 2.1
+"788" "Project Gotham Racing (JP weekly sales)" "XB" "2002" "Action" 1.54 0.44 0.04 0.07 2.1
+"791" "Devil May Cry 3: Dante's Awakening" "PS2" "2005" "Action" 0.99 0.63 0.29 0.19 2.09
+"794" "Finding Nemo" "PS2" "2003" "Action" 1.26 0.6 0.05 0.18 2.09
+"818" "The Incredibles" "GBA" "2004" "Action" 1.15 0.77 0.04 0.1 2.06
+"834" "Peter Jackson's King Kong: The Official Game of the Movie" "PS2" "2005" "Action" 0.71 1.02 0 0.31 2.04
+"835" "Donkey Kong Country" "GBA" "2003" "Platform" 1.2 0.48 0.29 0.07 2.04
+"840" "NBA Live 2004" "PS2" "2003" "Sports" 1.57 0.18 0 0.27 2.03
+"854" "Harry Potter and the Chamber of Secrets" "GBA" "2002" "Action" 1.21 0.64 0.05 0.09 1.99
+"855" "Harry Potter and the Chamber of Secrets" "PS" "2002" "Action" 0.75 1.09 0.02 0.12 1.98
+"861" "Spyro: Enter the Dragonfly" "PS2" "2002" "Platform" 0.74 0.95 0 0.28 1.97
+"863" "Devil May Cry 2" "PS2" "2003" "Action" 0.71 0.58 0.51 0.17 1.97
+"867" "Hot Shots Golf: Open Tee" "PSP" "2004" "Sports" 0.5 0.5 0.63 0.33 1.96
+"874" "Grand Theft Auto: San Andreas" "XB" "2005" "Action" 1.26 0.61 0 0.09 1.95
+"876" "NBA Street Vol. 2" "PS2" "2003" "Sports" 1.69 0.2 0 0.06 1.95
+"922" "Dynasty Warriors 3" "PS2" "2001" "Action" 0.53 0.16 1.07 0.1 1.87
+"925" "Madden NFL 06" "XB" "2005" "Sports" 1.75 0.03 0 0.08 1.86
+"926" "Shrek 2" "PS2" "2004" "Platform" 1.12 0.69 0.03 0.02 1.86
+"931" "NBA Live 2002" "PS2" "2001" "Sports" 0.91 0.71 0 0.24 1.86
+"936" "Jak 3" "PS2" "2004" "Platform" 1.33 0.49 0 0.03 1.85
+"943" "NCAA Football 06" "PS2" "2005" "Sports" 1.53 0.05 0 0.25 1.84
+"962" "Sly 2: Band of Thieves" "PS2" "2004" "Platform" 0.88 0.69 0 0.23 1.81
+"964" "Sonic Advance 2" "GBA" "2002" "Platform" 0.93 0.59 0.21 0.07 1.8
+"974" "SpongeBob SquarePants: SuperSponge" "PS" "2001" "Action" 1.12 0.58 0 0.08 1.78
+"975" "The Getaway: Black Monday" "PS2" "2004" "Action" 0.39 1.01 0.02 0.36 1.78
+"980" "50 Cent: Bulletproof" "PS2" "2005" "Action" 0.85 0.76 0 0.16 1.77
+"990" "The SpongeBob SquarePants Movie" "PS2" "2004" "Platform" 1.06 0.54 0 0.16 1.76
+"996" "State of Emergency" "PS2" "2002" "Action" 0.86 0.67 0 0.22 1.76
+"1007" "Pro Evolution Soccer" "PS2" "2001" "Sports" 0.06 0.9 0.53 0.27 1.75
+"1026" "SSX Tricky" "PS2" "2001" "Sports" 0.85 0.66 0 0.22 1.73
+"1031" "Crash Bandicoot: The Huge Adventure" "GBA" "2002" "Platform" 0.95 0.7 0 0.08 1.73
+"1033" "Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City" "PS2" "2003" "Action" 0.85 0.66 0 0.22 1.72
+"1039" "Madden NFL 2005" "XB" "2004" "Sports" 1.61 0.03 0 0.08 1.72
+"1067" "Harry Potter and the Sorcerer's Stone" "GBA" "2001" "Action" 0.87 0.66 0.08 0.08 1.69
+"1071" "Resident Evil 4" "GC" "2005" "Action" 0.98 0.42 0.22 0.06 1.69
+"1082" "Metroid Fusion" "GBA" "2002" "Action" 1.18 0.27 0.17 0.06 1.68
+"1084" "SSX 3" "PS2" "2003" "Sports" 0.93 0.52 0 0.22 1.67
+"1091" "Tony Hawk's Pro Skater 3" "PS" "2001" "Sports" 1.09 0.49 0.02 0.07 1.67
+"1096" "NCAA Football 2004" "PS2" "2003" "Sports" 1.35 0.09 0 0.23 1.67
+"1097" "SpongeBob SquarePants: Battle for Bikini Bottom" "PS2" "2003" "Platform" 1.08 0.45 0 0.14 1.67
+"1103" "NBA Ballers" "PS2" "2004" "Sports" 0.81 0.63 0 0.21 1.66
+"1105" "NBA Live 2003" "PS2" "2002" "Sports" 1.25 0.15 0.03 0.22 1.66
+"1114" "Kirby & the Amazing Mirror" "GBA" "2004" "Platform" 0.8 0.05 0.76 0.03 1.64
+"1119" "Tiger Woods PGA Tour 2003" "PS2" "2002" "Sports" 0.8 0.63 0 0.21 1.64
+"1120" "NBA Live 06 (All region sales)" "PS2" "2005" "Sports" 1.44 0.15 0 0.05 1.64
+"1121" "Prince of Persia: Warrior Within" "PS2" "2004" "Action" 0.54 0.88 0 0.22 1.64
+"1124" "ESPN NFL 2K5" "XB" "2004" "Sports" 1.54 0.02 0 0.07 1.63
+"1129" "Tiger Woods PGA Tour 2004" "PS2" "2003" "Sports" 1.18 0.34 0 0.1 1.63
+"1132" "NCAA Football 2005" "PS2" "2004" "Sports" 1.32 0.09 0 0.22 1.62
+"1135" "Tony Hawk's American Wasteland (Old all region sales)" "PS2" "2005" "Sports" 0.8 0.63 0.01 0.19 1.62
+"1141" "NFL Street 2" "PS2" "2004" "Sports" 0.79 0.62 0 0.21 1.61
+"1145" "Super Mario Strikers" "GC" "2005" "Sports" 0.98 0.38 0.2 0.04 1.61
+"1151" "Dollar Dash" "PS2" "2005" "Action" 1.3 0.23 0 0.07 1.6
+"1158" "Sonic Heroes" "GC" "2003" "Platform" 1.05 0.44 0.06 0.04 1.6
+"1159" "ESPN NBA 2K5" "PS2" "2004" "Sports" 1.26 0.12 0 0.21 1.59
+"1180" "Spyro 2: Season of Flame" "GBA" "2002" "Platform" 0.85 0.65 0 0.08 1.58
+"1182" "NCAA Football 2002" "PS2" "2001" "Sports" 0.77 0.6 0 0.2 1.57
+"1202" "Spider-Man 2: Enter: Electro" "PS" "2001" "Action" 0.57 0.87 0.02 0.09 1.55
+"1216" "MVP Baseball 2005" "PS2" "2005" "Sports" 1.26 0.07 0 0.21 1.54
+"1226" "Mario Golf: Toadstool Tour" "GC" "2003" "Sports" 1.09 0.15 0.25 0.04 1.53
+"1232" "The Simpsons Skateboarding" "PS2" "2002" "Sports" 0.36 0.9 0 0.27 1.52
+"1241" "Pac-Man World 2" "PS2" "2002" "Action" 1.26 0.05 0 0.21 1.51
+"1283" "Major League Baseball 2K5" "PS2" "2005" "Sports" 0.72 0.56 0 0.19 1.48
+"1285" "Tom Clancy's Splinter Cell: Pandora Tomorrow" "XB" "2004" "Action" 0.82 0.59 0 0.07 1.48
+"1290" "Disney Princess" "GBA" "2003" "Platform" 1.04 0.37 0 0.06 1.47
+"1299" "The SpongeBob SquarePants Movie" "GBA" "2004" "Platform" 1.02 0.38 0 0.06 1.46
+"1309" "Mario Superstar Baseball" "GC" "2005" "Sports" 0.93 0.24 0.25 0.04 1.46
+"1316" "Onimusha 3: Demon Siege" "PS2" "2004" "Action" 0.37 0.47 0.54 0.07 1.45
+"1322" "Resident Evil: Outbreak" "PS2" "2003" "Action" 0.54 0.35 0.46 0.1 1.45
+"1331" "Tony Hawk's American Wasteland (Weekly american sales)" "PS2" "2005" "Sports" 1.38 0.05 0 0.02 1.45
+"1343" "Tiger Woods PGA Tour 2005" "PS2" "2004" "Sports" 1.03 0.32 0 0.09 1.44
+"1345" "NCAA Football 2003" "PS2" "2002" "Sports" 1.16 0.08 0 0.19 1.44
+"1352" "Classic NES Series: Super Mario Bros." "GBA" "2004" "Platform" 0 0 1.39 0.03 1.43
+"1355" "Cabela's Big Game Hunter" "PS2" "2002" "Sports" 0.7 0.54 0 0.18 1.42
+"1357" "NBA Live 06 (Weekly american sales)" "PS2" "2005" "Sports" 1.35 0.05 0 0.02 1.42
+"1358" "The Legend of Zelda: The Minish Cap" "GBA" "2004" "Action" 0.89 0.22 0.22 0.1 1.42
+"1359" "NFL Street" "PS2" "2004" "Sports" 1.15 0.08 0 0.19 1.42
+"1364" "Resident Evil (Remake)" "GC" "2002" "Action" 0.63 0.38 0.35 0.05 1.42
+"1370" "LEGO Star Wars: The Video Game" "GC" "2005" "Action" 1.09 0.28 0 0.04 1.41
+"1381" "Spider-Man: The Movie" "XB" "2002" "Action" 1.07 0.28 0 0.05 1.4
+"1385" "Sonic Advance 3" "GBA" "2004" "Platform" 0.74 0.52 0.08 0.06 1.4
+"1389" "Madden NFL 2002" "PS" "2001" "Sports" 0.78 0.53 0 0.09 1.39
+"1396" "Dynasty Warriors 5" "PS2" "2005" "Action" 0.24 0.18 0.91 0.06 1.39
+"1400" "True Crime: Streets of LA" "XB" "2003" "Action" 0.96 0.37 0 0.05 1.38
+"1411" "Dave Mirra Freestyle BMX 2" "PS2" "2001" "Sports" 0.67 0.53 0 0.18 1.38
+"1425" "Crash Bandicoot 2: N-Tranced" "GBA" "2003" "Platform" 0.63 0.66 0 0.07 1.36
+"1446" "Samurai Warriors" "PS2" "2004" "Action" 0.22 0.05 1.06 0.02 1.35
+"1461" "Donkey Kong Jungle Beat" "GC" "2004" "Platform" 0.84 0.22 0.24 0.04 1.34
+"1465" "MVP Baseball 2004" "PS2" "2004" "Sports" 1.1 0.06 0 0.18 1.34
+"1467" "Ratchet & Clank: Up Your Arsenal (Weekly american sales)" "PS2" "2004" "Platform" 1.27 0.05 0 0.02 1.33
+"1472" "Spider-Man: The Movie" "GBA" "2002" "Action" 0.92 0.35 0.01 0.05 1.33
+"1492" "NFL 2K3" "PS2" "2002" "Sports" 1.06 0.08 0 0.18 1.32
+"1506" "Madagascar" "PS2" "2005" "Platform" 0.78 0.45 0 0.07 1.31
+"1530" "Resident Evil Zero" "GC" "2002" "Action" 0.54 0.27 0.45 0.04 1.29
+"1533" "Pirates of the Caribbean: The Curse of the Black Pearl" "GBA" "2003" "Platform" 0.93 0.34 0 0.02 1.29
+"1548" "Manhunt" "PS2" "2003" "Action" 0.63 0.49 0 0.16 1.28
+"1550" "Silent Hill 2" "PS2" "2001" "Action" 0.62 0.49 0 0.16 1.28
+"1560" "Tony Hawk's Underground" "XB" "2003" "Sports" 0.85 0.37 0 0.05 1.27
+"1566" "Sonic Adventure DX: Director's Cut" "GC" "2003" "Platform" 0.87 0.3 0.06 0.03 1.27
+"1567" "Jet Li: Rise to Honor" "PS2" "2004" "Action" 0.62 0.48 0 0.16 1.27
+"1577" "Championship Manager 03/04" "PC" "2003" "Sports" 0 1.15 0 0.11 1.26
+"1595" "Lara Croft Tomb Raider: The Angel of Darkness" "PS2" "2003" "Action" 0.61 0.48 0 0.16 1.25
+"1596" "Tom Clancy's Splinter Cell: Pandora Tomorrow" "PS2" "2004" "Action" 0.52 0.56 0 0.17 1.25
+"1610" "Star Wars Episode III: Revenge of the Sith" "XB" "2005" "Action" 0.82 0.38 0 0.04 1.24
+"1612" "Frogger: The Great Quest" "PS2" "2001" "Platform" 0.6 0.47 0 0.16 1.23
+"1614" "Ninja Gaiden" "XB" "2004" "Action" 0.92 0.2 0.07 0.04 1.23
+"1615" "Crash Bandicoot: The Wrath of Cortex" "XB" "2002" "Platform" 0.59 0.57 0 0.07 1.23
+"1622" "SpongeBob SquarePants: Battle for Bikini Bottom" "GBA" "2003" "Platform" 0.88 0.33 0 0.02 1.23
+"1625" "Donkey Kong Country 2" "GBA" "2004" "Platform" 0.79 0.27 0.12 0.04 1.23
+"1635" "Mario Power Tennis" "GC" "2004" "Sports" 0.58 0.16 0.46 0.03 1.22
+"1649" "NBA 2K2" "PS2" "2002" "Sports" 0.59 0.46 0.01 0.15 1.22
+"1656" "Sly Cooper and the Thievius Raccoonus" "PS2" "2002" "Platform" 1.03 0.14 0 0.04 1.21
+"1666" "World Soccer Winning Eleven 9 (JP & Others sales)" "PSP" "2005" "Sports" 0.01 0.88 0.31 0 1.2
+"1667" "The Lord of the Rings: The Fellowship of the Ring" "PS2" "2002" "Action" 0.59 0.46 0 0.15 1.2
+"1680" "Enter the Matrix" "XB" "2003" "Action" 0.72 0.43 0.01 0.04 1.2
+"1681" "NHL 2002" "PS2" "2001" "Sports" 0.59 0.46 0 0.15 1.2
+"1692" "SpongeBob SquarePants: Revenge of the Flying Dutchman" "GBA" "2002" "Platform" 0.92 0.23 0 0.04 1.19
+"1700" "Spider-Man: The Movie" "GC" "2002" "Action" 0.86 0.27 0.01 0.04 1.19
+"1712" "Tony Hawk's Pro Skater 2" "GBA" "2001" "Sports" 0.85 0.31 0 0.02 1.18
+"1723" "Ty the Tasmanian Tiger" "PS2" "2002" "Platform" 0.57 0.45 0 0.15 1.17
+"1731" "Cabela's Dangerous Hunts" "PS2" "2003" "Sports" 0.57 0.45 0 0.15 1.17
+"1759" "LEGO Star Wars: The Video Game" "XB" "2005" "Action" 0.83 0.28 0 0.05 1.16
+"1764" "Gauntlet: Dark Legacy" "PS2" "2001" "Action" 0.56 0.44 0 0.15 1.15
+"1779" "Tak and the Power of Juju" "PS2" "2003" "Platform" 0.56 0.44 0 0.15 1.15
+"1784" "Tenchu: Wrath of Heaven" "PS2" "2003" "Action" 0.44 0.34 0.25 0.11 1.14
+"1785" "Shadow of the Colossus" "PS2" "2005" "Action" 0.78 0.03 0.2 0.13 1.14
+"1796" "The Lord of the Rings: The Return of the King" "XB" "2003" "Action" 0.71 0.38 0 0.05 1.14
+"1797" "LEGO Star Wars: The Video Game" "GBA" "2005" "Action" 0.82 0.3 0 0.02 1.14
+"1831" "Spider-Man 2" "XB" "2004" "Action" 0.82 0.26 0 0.04 1.12
+"1839" "Tom Clancy's Splinter Cell: Chaos Theory" "XB" "2005" "Action" 0.68 0.38 0 0.05 1.11
+"1864" "NBA Live 2001" "PS2" "2001" "Sports" 0.52 0.4 0.04 0.13 1.1
+"1882" "Madden NFL 2004" "XB" "2003" "Sports" 1.02 0.02 0 0.05 1.09
+"1896" "SpongeBob SquarePants: Revenge of the Flying Dutchman" "PS2" "2002" "Platform" 0.53 0.41 0 0.14 1.08
+"1899" "Fisherman's Bass Club" "PS2" "2002" "Sports" 0.53 0.41 0 0.14 1.08
+"1914" "Disney's Lilo & Stitch" "GBA" "2002" "Platform" 0.77 0.29 0 0.02 1.08
+"1928" "Super Princess Peach" "DS" "2005" "Platform" 0.72 0.06 0.21 0.07 1.07
+"1933" "World Tour Soccer" "PSP" "2005" "Sports" 0.1 0.63 0 0.34 1.07
+"1948" "NBA Street V3" "PS2" "2005" "Sports" 0.52 0.41 0 0.14 1.06
+"1952" "Hulk" "PS2" "2003" "Action" 0.52 0.41 0 0.14 1.06
+"1960" "Spider-Man 2" "GBA" "2004" "Action" 0.76 0.28 0 0.02 1.06
+"1977" "NBA 2K3" "PS2" "2002" "Sports" 0.51 0.4 0 0.13 1.05
+"1990" "MVP Baseball 2003" "PS2" "2003" "Sports" 0.51 0.4 0 0.13 1.04
+"2019" "NCAA March Madness 2004" "PS2" "2003" "Sports" 0.5 0.39 0 0.13 1.03
+"2031" "Shrek 2" "GC" "2004" "Platform" 0.73 0.26 0.01 0.03 1.02
+"2040" "Harry Potter and the Prisoner of Azkaban" "PS2" "2004" "Action" 0.5 0.39 0 0.13 1.02
+"2048" "Championship Manager 3" "PC" "2003" "Sports" 0 0.93 0 0.08 1.01
+"2073" "Dynasty Warriors 3: Xtreme Legends" "PS2" "2002" "Action" 0.13 0.1 0.74 0.03 1
+"2102" "Shadow The Hedgehog" "GC" "2005" "Platform" 0.76 0.2 0 0.03 0.99
+"2121" "Grand Theft Auto: San Andreas" "PC" "2005" "Action" 0 0.92 0 0.05 0.98
+"2131" "NCAA Football 06" "XB" "2005" "Sports" 0.73 0.21 0 0.03 0.97
+"2138" "NHL 2004" "PS2" "2003" "Sports" 0.47 0.37 0 0.12 0.97
+"2141" "FIFA Soccer 2005" "XB" "2004" "Sports" 0.33 0.6 0 0.04 0.97
+"2167" "Shinobi" "PS2" "2002" "Platform" 0.36 0.28 0.22 0.09 0.96
+"2173" "ESPN NBA 2K5" "XB" "2004" "Sports" 0.88 0.04 0 0.04 0.95
+"2176" "Tom Clancy's Splinter Cell: Chaos Theory" "PS2" "2005" "Action" 0.36 0.45 0 0.14 0.95
+"2177" "SpongeBob SquarePants: Battle for Bikini Bottom" "GC" "2003" "Platform" 0.74 0.19 0 0.03 0.95
+"2199" "The SpongeBob SquarePants Movie" "GC" "2004" "Platform" 0.73 0.19 0 0.03 0.94
+"2204" "Castlevania: Lament of Innocence" "PS2" "2003" "Action" 0.46 0.36 0 0.12 0.94
+"2209" "MVP Baseball 2005" "XB" "2005" "Sports" 0.7 0.2 0 0.03 0.94
+"2215" "Prince of Persia: The Sands of Time" "XB" "2003" "Action" 0.57 0.33 0 0.04 0.94
+"2217" "Hot Shots Golf Fore!" "PS2" "2003" "Sports" 0.46 0.36 0 0.12 0.94
+"2219" "NHL 2003" "PS2" "2002" "Sports" 0.46 0.36 0 0.12 0.93
+"2224" "Tony Hawk's Pro Skater 4" "XB" "2002" "Sports" 0.59 0.3 0 0.04 0.93
+"2237" "Teenage Mutant Ninja Turtles" "GBA" "2003" "Action" 0.67 0.25 0 0.02 0.93
+"2245" "Teenage Mutant Ninja Turtles" "PS2" "2003" "Action" 0.45 0.35 0 0.12 0.92
+"2276" "Street Hoops" "PS2" "2002" "Sports" 0.45 0.35 0 0.12 0.91
+"2280" "Knockout Kings 2002" "PS2" "2002" "Sports" 0.45 0.35 0 0.12 0.91
+"2295" "Tiger Woods PGA Tour 2002" "PS2" "2002" "Sports" 0.44 0.35 0 0.12 0.9
+"2298" "MLB 2005" "PS2" "2004" "Sports" 0.44 0.35 0 0.12 0.9
+"2308" "Sonic Heroes" "XB" "2003" "Platform" 0.41 0.43 0.01 0.05 0.9
+"2322" "NBA Live 2005" "XB" "2004" "Sports" 0.81 0.05 0 0.04 0.9
+"2323" "Harry Potter: Quidditch World Cup" "PS2" "2003" "Sports" 0.44 0.34 0 0.11 0.9
+"2325" "Madagascar" "GBA" "2005" "Platform" 0.62 0.24 0 0.03 0.89
+"2329" "Blitz: The League" "PS2" "2005" "Sports" 0.74 0.03 0 0.12 0.89
+"2331" "Castlevania: Circle of the Moon" "GBA" "2001" "Platform" 0.6 0.22 0.05 0.02 0.89
+"2333" "Tiger Woods PGA Tour 06" "PS2" "2005" "Sports" 0.74 0.03 0 0.12 0.89
+"2338" "Finding Nemo" "GC" "2003" "Action" 0.69 0.18 0 0.02 0.89
+"2342" "NFL 2K2" "PS2" "2001" "Sports" 0.44 0.34 0 0.11 0.89
+"2364" "NBA 2K6" "PS2" "2005" "Action" 0.43 0.34 0 0.11 0.88
+"2372" "ESPN NHL 2K5" "PS2" "2004" "Sports" 0.43 0.33 0 0.11 0.88
+"2402" "Triple Play 2002" "PS2" "2002" "Sports" 0.43 0.33 0 0.11 0.87
+"2426" "Dynasty Warriors 4: Xtreme Legends" "PS2" "2003" "Action" 0.17 0.13 0.51 0.04 0.86
+"2437" "Tiger Woods PGA Tour 2005" "XB" "2004" "Sports" 0.64 0.18 0 0.03 0.85
+"2454" "Spider-Man 2" "GC" "2004" "Action" 0.65 0.17 0 0.02 0.84
+"2462" "The Incredibles" "GC" "2004" "Action" 0.65 0.17 0 0.02 0.84
+"2469" "Rocket Power: Team Rocket Rescue" "PS" "2001" "Sports" 0.47 0.32 0 0.05 0.84
+"2474" "ESPN College Hoops 2K5" "PS2" "2004" "Sports" 0.41 0.32 0 0.11 0.84
+"2486" "Lizzie McGuire 2: Lizzie Diaries" "GBA" "2004" "Action" 0.6 0.22 0 0.01 0.83
+"2495" "Sly 3: Honor Among Thieves" "PS2" "2005" "Platform" 0.69 0.03 0 0.11 0.83
+"2507" "Tony Hawk's Underground 2 Remix" "PSP" "2005" "Sports" 0.46 0.21 0 0.15 0.82
+"2508" "Tony Hawk's Pro Skater 3" "GC" "2001" "Sports" 0.64 0.17 0 0.02 0.82
+"2516" "Amped: Freestyle Snowboarding" "XB" "2001" "Sports" 0.69 0.11 0 0.02 0.82
+"2521" "Rocket Power: Beach Bandits" "PS2" "2002" "Platform" 0.4 0.31 0 0.1 0.82
+"2541" "The Legend of Zelda: Four Swords Adventures" "GC" "2004" "Action" 0.63 0.16 0 0.02 0.81
+"2566" "Yakuza" "PS2" "2005" "Action" 0.03 0.02 0.74 0.01 0.8
+"2581" "Prince of Persia: Warrior Within" "XB" "2004" "Action" 0.48 0.28 0 0.04 0.8
+"2624" "FIFA Soccer 2004" "XB" "2003" "Sports" 0.24 0.49 0 0.05 0.79
+"2632" "Secret Agent Barbie: Royal Jewels Mission" "GBA" "2002" "Platform" 0.56 0.21 0 0.01 0.78
+"2674" "Conker's Bad Fur Day" "N64" "2001" "Platform" 0.53 0.22 0 0.02 0.77
+"2676" "Star Wars Episode II: Attack of the Clones" "GBA" "2002" "Action" 0.55 0.2 0 0.01 0.77
+"2679" "Twisted Metal: Head On" "PSP" "2005" "Action" 0.71 0 0 0.06 0.77
+"2681" "Maximo: Ghosts to Glory" "PS2" "2001" "Platform" 0.38 0.29 0 0.1 0.77
+"2683" "Donkey Kong Country 3" "GBA" "2005" "Platform" 0.45 0.17 0.14 0.01 0.77
+"2684" "All-Star Baseball 2003" "PS2" "2002" "Sports" 0.38 0.29 0 0.1 0.77
+"2686" "Cabela's Deer Hunt: 2004 Season" "PS2" "2003" "Sports" 0.37 0.29 0 0.1 0.76
+"2693" "Mercenaries: Playground of Destruction" "PS2" "2005" "Action" 0.64 0.02 0 0.1 0.76
+"2706" "Tony Hawk's Pro Skater 2" "N64" "2001" "Sports" 0.59 0.16 0 0.01 0.76
+"2722" "True Crime: New York City" "PS2" "2005" "Action" 0.57 0.02 0.07 0.09 0.76
+"2742" "Shark Tale" "PS2" "2004" "Action" 0.37 0.29 0 0.1 0.75
+"2748" "Madden NFL 06" "PSP" "2005" "Sports" 0.69 0 0 0.06 0.75
+"2750" "Tony Hawk's Underground 2" "XB" "2004" "Sports" 0.48 0.24 0 0.03 0.75
+"2781" "The Lord of the Rings: The Two Towers" "GBA" "2002" "Action" 0.53 0.2 0 0.01 0.74
+"2782" "Tiger Woods PGA Tour 2001" "PS2" "2001" "Sports" 0.36 0.28 0 0.09 0.74
+"2797" "Classic NES Series: Donkey Kong" "GBA" "2004" "Platform" 0.4 0.15 0.17 0.01 0.73
+"2803" "Kirby: Canvas Curse" "DS" "2005" "Platform" 0.37 0 0.32 0.04 0.73
+"2806" "Oddworld: Munch's Oddysee" "XB" "2001" "Platform" 0.54 0.16 0 0.03 0.73
+"2816" "Beyblade VForce: Ultimate Blader Jam" "GBA" "2003" "Action" 0.52 0.19 0 0.01 0.73
+"2819" "Shaun Palmer's Pro Snowboarder" "PS2" "2001" "Sports" 0.36 0.28 0 0.09 0.73
+"2827" "Star Wars Episode III: Revenge of the Sith" "GBA" "2005" "Action" 0.52 0.19 0 0.01 0.72
+"2828" "Ultimate Spider-Man" "PS2" "2005" "Action" 0.6 0.02 0 0.1 0.72
+"2838" "Kouchuu Ouja Mushi King" "GBA" "2005" "Action" 0 0 0.7 0.02 0.72
+"2858" "The Lord of the Rings: The Two Towers" "XB" "2002" "Action" 0.45 0.24 0 0.03 0.71
+"2859" "Madden NFL 2003" "XB" "2002" "Sports" 0.67 0.02 0 0.03 0.71
+"2874" "Silent Hill 3" "PS2" "2003" "Action" 0.35 0.27 0 0.09 0.71
+"2880" "Spyro: Enter the Dragonfly" "GC" "2002" "Platform" 0.55 0.14 0 0.02 0.71
+"2881" "Scooby-Doo 2: Monsters Unleashed" "GBA" "2004" "Action" 0.51 0.19 0 0.01 0.71
+"2882" "Power Rangers: Dino Thunder" "PS2" "2004" "Action" 0.35 0.27 0 0.09 0.71
+"2901" "Spider-Man 2" "PSP" "2005" "Action" 0.35 0.21 0 0.14 0.71
+"2905" "Tony Hawk's Underground" "GC" "2003" "Sports" 0.54 0.14 0 0.02 0.7
+"2910" "Star Wars: Obi-Wan" "XB" "2001" "Action" 0.52 0.16 0 0.02 0.7
+"2914" "Madden NFL 2005" "GC" "2004" "Sports" 0.54 0.14 0 0.02 0.7
+"2915" "F-14 Tomcat" "GBA" "2001" "Action" 0.5 0.19 0 0.01 0.7
+"2927" "Ape Escape: On the Loose" "PSP" "2005" "Platform" 0.52 0.01 0.12 0.05 0.7
+"2932" "Mafia" "PS2" "2004" "Action" 0.34 0.27 0 0.09 0.7
+"2940" "Disney's Chicken Little" "GBA" "2005" "Platform" 0.5 0.18 0 0.01 0.7
+"2952" "Mortal Kombat: Shaolin Monks" "PS2" "2005" "Action" 0.58 0.02 0 0.09 0.69
+"2963" "Harry Potter and the Chamber of Secrets" "GC" "2002" "Action" 0.53 0.14 0 0.02 0.69
+"2965" "The Lord of the Rings: The Return of the King" "GC" "2003" "Action" 0.53 0.14 0 0.02 0.69
+"2972" "Shark Tale" "GBA" "2004" "Action" 0.49 0.18 0 0.01 0.68
+"2978" "NBA Street Vol. 2" "XB" "2003" "Sports" 0.62 0.04 0 0.02 0.68
+"2982" "NCAA Football 2005" "XB" "2004" "Sports" 0.63 0.02 0 0.03 0.68
+"2986" "Prince of Persia: The Two Thrones" "PS2" "2005" "Action" 0.57 0.02 0 0.09 0.68
+"2990" "Mercenaries: Playground of Destruction" "XB" "2005" "Action" 0.54 0.11 0 0.03 0.68
+"2997" "FIFA Soccer 06" "XB" "2005" "Sports" 0.29 0.38 0 0.01 0.68
+"3028" "Virtua Tennis: World Tour (US & Others sales)" "PSP" "2005" "Sports" 0.16 0.36 0 0.14 0.67
+"3042" "The Fairly Odd Parents: Breakin Da Rules" "PS2" "2003" "Platform" 0.33 0.25 0 0.09 0.67
+"3053" "NFL Street" "XB" "2004" "Sports" 0.49 0.15 0 0.02 0.66
+"3057" "MLB 2004" "PS2" "2003" "Sports" 0.32 0.25 0 0.08 0.66
+"3061" "NCAA March Madness 2003" "PS2" "2002" "Sports" 0.32 0.25 0 0.08 0.66
+"3062" "Finding Nemo" "XB" "2003" "Action" 0.48 0.16 0 0.02 0.66
+"3066" "Madagascar" "GC" "2005" "Platform" 0.52 0.13 0 0.02 0.66
+"3083" "Shrek: Hassle at the Castle" "GBA" "2002" "Action" 0.47 0.17 0 0.01 0.66
+"3086" "Disney's Kim Possible 2: Drakken's Demise" "GBA" "2004" "Platform" 0.47 0.17 0 0.01 0.66
+"3103" "Disney's Chicken Little" "PS2" "2005" "Platform" 0.32 0.25 0 0.08 0.65
+"3105" "Yoshi Topsy-Turvy" "GBA" "2004" "Platform" 0.25 0.09 0.3 0.01 0.65
+"3121" "Harry Potter and the Goblet of Fire" "PS2" "2005" "Action" 0.54 0.02 0 0.09 0.65
+"3136" "Crash Bandicoot Purple: Ripto's Rampage" "GBA" "2004" "Platform" 0.46 0.17 0 0.01 0.64
+"3138" "Spyro: A Hero's Tail" "PS2" "2004" "Platform" 0.32 0.25 0 0.08 0.64
+"3141" "Crash: Twinsanity" "PS2" "2004" "Platform" 0.32 0.25 0 0.08 0.64
+"3152" "X2: Wolverine's Revenge" "PS2" "2003" "Platform" 0.31 0.24 0 0.08 0.64
+"3154" "NBA Live 06" "XB" "2005" "Sports" 0.57 0.04 0 0.03 0.64
+"3181" "Lemony Snicket's A Series of Unfortunate Events" "PS2" "2004" "Platform" 0.31 0.24 0 0.08 0.64
+"3191" "Tony Hawk's Pro Skater 2x" "XB" "2001" "Sports" 0.41 0.19 0 0.03 0.63
+"3193" "FIFA Soccer 2003" "XB" "2002" "Sports" 0.2 0.4 0 0.04 0.63
+"3214" "Ape Escape 2" "PS2" "2002" "Platform" 0.12 0.09 0.38 0.03 0.63
+"3225" "FIFA Soccer 2002" "PS2" "2001" "Sports" 0.31 0.24 0 0.08 0.63
+"3240" "Tony Hawk's American Wasteland" "XB" "2005" "Sports" 0.4 0.2 0 0.03 0.62
+"3250" "Tiger Woods PGA Tour 2004" "XB" "2003" "Sports" 0.47 0.13 0 0.02 0.62
+"3254" "Tak 2: The Staff of Dreams" "PS2" "2004" "Platform" 0.3 0.24 0 0.08 0.62
+"3258" "Viewtiful Joe" "GC" "2003" "Action" 0.38 0.1 0.12 0.02 0.62
+"3264" "Strike Force Bowling" "PS2" "2004" "Sports" 0.3 0.24 0 0.08 0.62
+"3289" "NFL Fever 2003" "XB" "2002" "Sports" 0.46 0.13 0 0.02 0.61
+"3295" "Dora the Explorer: Super Spies" "GBA" "2004" "Platform" 0.44 0.16 0 0.01 0.61
+"3319" "Madden NFL 2003" "GBA" "2002" "Sports" 0.44 0.16 0 0.01 0.61
+"3321" "Harry Potter and the Goblet of Fire" "GBA" "2005" "Action" 0.44 0.16 0 0.01 0.61
+"3322" "Dragon Ball Z: Buu's Fury" "GBA" "2004" "Action" 0.44 0.16 0 0.01 0.61
+"3323" "Madden NFL 2002" "GC" "2001" "Sports" 0.47 0.12 0 0.02 0.61
+"3326" "Spider-Man: Mysterio's Menace" "GBA" "2001" "Action" 0.43 0.16 0 0.01 0.61
+"3335" "Tony Hawk's Underground" "GBA" "2003" "Sports" 0.43 0.16 0 0.01 0.6
+"3338" "Shadow The Hedgehog" "PS2" "2005" "Platform" 0.5 0.02 0 0.08 0.6
+"3406" "2002 FIFA World Cup" "PS2" "2002" "Sports" 0.21 0.17 0.16 0.06 0.59
+"3407" "MVP Baseball 2004" "XB" "2004" "Sports" 0.44 0.13 0 0.02 0.59
+"3408" "Crash Bandicoot: The Wrath of Cortex" "GC" "2002" "Platform" 0.46 0.12 0 0.02 0.59
+"3416" "Dead or Alive Xtreme Beach Volleyball" "XB" "2003" "Sports" 0.36 0.08 0.14 0.02 0.59
+"3427" "Mega Man Anniversary Collection" "PS2" "2004" "Platform" 0.29 0.22 0 0.08 0.59
+"3434" "Backyard NBA Basketball" "PS2" "2003" "Sports" 0.29 0.22 0 0.07 0.59
+"3438" "Mega Man X7" "PS2" "2003" "Action" 0.22 0.17 0.14 0.06 0.58
+"3463" "Terminator 3: Rise of the Machines" "PS2" "2003" "Action" 0.28 0.22 0 0.07 0.58
+"3473" "Prince of Persia: The Two Thrones" "XB" "2005" "Action" 0.33 0.22 0 0.03 0.58
+"3491" "Tony Hawk's Pro Skater 4" "GC" "2002" "Sports" 0.45 0.12 0 0.02 0.58
+"3494" "NHL 06" "PS2" "2005" "Sports" 0.48 0.02 0 0.08 0.58
+"3512" "Tony Hawk's Pro Skater 4" "GBA" "2002" "Sports" 0.41 0.15 0 0.01 0.57
+"3518" "Spyro Orange: The Cortex Conspiracy" "GBA" "2004" "Action" 0.41 0.15 0 0.01 0.57
+"3525" "Madden NFL 06" "GC" "2005" "Sports" 0.44 0.11 0 0.02 0.57
+"3539" "Dynasty Warriors 5: Xtreme Legends" "PS2" "2005" "Action" 0.11 0.08 0.35 0.03 0.57
+"3546" "SpongeBob SquarePants: Battle for Bikini Bottom" "XB" "2003" "Platform" 0.45 0.1 0 0.02 0.57
+"3551" "Resident Evil Outbreak File #2" "PS2" "2004" "Action" 0.19 0.15 0.17 0.05 0.57
+"3561" "True Crime: Streets of LA" "GC" "2003" "Action" 0.44 0.11 0 0.02 0.56
+"3564" "The Incredible Hulk" "GBA" "2003" "Action" 0.4 0.15 0 0.01 0.56
+"3567" "The Lord of the Rings: The Return of the King" "GBA" "2003" "Action" 0.4 0.15 0 0.01 0.56
+"3568" "NHL Hitz 20-02" "PS2" "2001" "Sports" 0.28 0.22 0 0.07 0.56
+"3572" "Monsters, Inc. Scream Team" "PS" "2001" "Platform" 0.31 0.21 0 0.04 0.56
+"3576" "Cabela's Big Game Hunter 2005 Adventures" "PS2" "2004" "Sports" 0.28 0.21 0 0.07 0.56
+"3584" "All-Star Baseball 2002" "PS2" "2001" "Sports" 0.27 0.21 0 0.07 0.56
+"3585" "Backyard NFL Football" "GBA" "2002" "Sports" 0.4 0.15 0 0.01 0.56
+"3601" "Batman Begins" "PS2" "2005" "Action" 0.27 0.21 0 0.07 0.56
+"3606" "Blinx: The Time Sweeper" "XB" "2002" "Platform" 0.39 0.15 0 0.02 0.56
+"3609" "ESPN NFL Football" "PS2" "2003" "Sports" 0.27 0.21 0 0.07 0.56
+"3612" "Major League Baseball 2K5" "XB" "2005" "Sports" 0.52 0.02 0 0.02 0.56
+"3633" "Soul Reaver 2" "PS2" "2001" "Action" 0.27 0.21 0 0.07 0.55
+"3634" "Metal Gear Solid 3: Subsistence" "PS2" "2005" "Action" 0.34 0.01 0.15 0.06 0.55
+"3650" "Extermination" "PS2" "2001" "Action" 0.21 0.16 0.12 0.05 0.55
+"3658" "Derby Stallion 04" "PS2" "2004" "Sports" 0 0 0.55 0 0.55
+"3662" "Tony Hawk's Pro Skater 3" "XB" "2002" "Sports" 0.34 0.18 0 0.02 0.55
+"3663" "Mega Man Zero" "GBA" "2002" "Platform" 0.22 0.08 0.24 0.01 0.55
+"3669" "Shrek 2" "XB" "2004" "Platform" 0.4 0.13 0 0.02 0.55
+"3670" "Soccer Tsuku 2002: J-League Pro Soccer Club o Tsukurou!" "PS2" "2002" "Sports" 0 0 0.55 0 0.55
+"3672" "SpongeBob SquarePants: SuperSponge" "GBA" "2001" "Action" 0.39 0.15 0 0.01 0.55
+"3677" "Tak and the Power of Juju" "GBA" "2003" "Platform" 0.39 0.15 0 0.01 0.55
+"3693" "The SpongeBob SquarePants Movie" "XB" "2004" "Platform" 0.4 0.12 0 0.02 0.54
+"3707" "The Fairly Odd Parents: Breakin' Da Rules" "GBA" "2003" "Platform" 0.39 0.14 0 0.01 0.54
+"3724" "Fire Emblem: Path of Radiance" "GC" "2005" "Action" 0.29 0.08 0.16 0.01 0.54
+"3737" "SSX Tricky" "GC" "2001" "Sports" 0.42 0.11 0 0.01 0.54
+"3742" "World Soccer Winning Eleven 7 International (JP version)" "PS2" "2004" "Sports" 0 0 0.54 0 0.54
+"3743" "ESPN NBA Basketball" "PS2" "2003" "Sports" 0.26 0.21 0 0.07 0.54
+"3746" "Mat Hoffman's Pro BMX" "PS" "2001" "Sports" 0.3 0.2 0 0.04 0.54
+"3751" "The Hobbit" "PS2" "2003" "Platform" 0.26 0.2 0 0.07 0.54
+"3755" "The Incredible Hulk: Ultimate Destruction" "PS2" "2005" "Action" 0.26 0.2 0 0.07 0.54
+"3761" "NCAA March Madness 06" "PS2" "2005" "Sports" 0.45 0.02 0 0.07 0.53
+"3766" "Legacy of Kain: Defiance" "PS2" "2003" "Action" 0.26 0.2 0 0.07 0.53
+"3768" "NCAA March Madness 2005" "PS2" "2004" "Sports" 0.44 0.02 0 0.07 0.53
+"3774" "MLB SlugFest 20-04" "PS2" "2003" "Sports" 0.26 0.2 0 0.07 0.53
+"3777" "Blitz: The League" "XB" "2004" "Sports" 0.4 0.11 0 0.02 0.53
+"3784" "Peter Jackson's King Kong: The Official Game of the Movie" "XB" "2005" "Action" 0.34 0.17 0 0.02 0.53
+"3791" "Ty the Tasmanian Tiger 2: Bush Rescue" "PS2" "2004" "Platform" 0.26 0.2 0 0.07 0.53
+"3792" "The Lord of the Rings: The Fellowship of the Ring" "XB" "2002" "Action" 0.31 0.19 0 0.03 0.53
+"3793" "NBA 06" "PS2" "2005" "Sports" 0.26 0.2 0 0.07 0.53
+"3808" "Oni" "PS2" "2001" "Action" 0.26 0.2 0 0.07 0.53
+"3809" "The Lord of the Rings: The Two Towers" "GC" "2002" "Action" 0.41 0.11 0 0.01 0.53
+"3811" "The Warriors" "PS2" "2005" "Action" 0.44 0.02 0 0.07 0.53
+"3823" "Mario Tennis: Power Tour" "GBA" "2005" "Sports" 0.24 0.09 0.19 0.01 0.52
+"3838" "Metal Gear Solid 2: Substance" "PS2" "2002" "Action" 0.18 0.14 0.16 0.05 0.52
+"3840" "NCAA Football 2003" "XB" "2002" "Sports" 0.39 0.11 0 0.02 0.52
+"3856" "J-League Pro Soccer Club o Tsukurou! 3" "PS2" "2003" "Sports" 0 0 0.52 0 0.52
+"3864" "The Punisher" "PS2" "2005" "Action" 0.25 0.2 0 0.07 0.52
+"3867" "SSX On Tour" "PS2" "2005" "Sports" 0.25 0.2 0 0.07 0.52
+"3868" "Tony Hawk's Pro Skater 3" "GBA" "2002" "Sports" 0.37 0.14 0 0.01 0.52
+"3869" "Harry Potter and the Prisoner of Azkaban" "GBA" "2004" "Action" 0.37 0.14 0 0.01 0.52
+"3874" "NFL 2K3" "XB" "2002" "Sports" 0.38 0.11 0 0.02 0.52
+"3875" "NBA Live 2002" "PS" "2001" "Sports" 0.29 0.19 0 0.03 0.52
+"3878" "Way of the Samurai" "PS2" "2002" "Action" 0.13 0.1 0.25 0.03 0.51
+"3897" "Madden NFL 2004" "GC" "2003" "Sports" 0.4 0.1 0 0.01 0.51
+"3898" "Jikkyou Powerful Pro Yakyuu 10" "PS2" "2003" "Sports" 0 0 0.51 0 0.51
+"3904" "Dynasty Warriors" "PSP" "2004" "Action" 0.18 0.01 0.3 0.02 0.51
+"3915" "NBA Live 2004" "XB" "2003" "Sports" 0.44 0.04 0 0.02 0.51
+"3917" "Disney's Kim Possible: Revenge of Monkey Fist" "GBA" "2002" "Platform" 0.37 0.14 0 0.01 0.51
+"3939" "NBA Ballers" "XB" "2004" "Sports" 0.37 0.11 0 0.02 0.51
+"3940" "Silent Hill 4: The Room" "PS2" "2004" "Action" 0.25 0.19 0 0.06 0.51
+"3948" "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies" "GBA" "2004" "Action" 0.36 0.13 0 0.01 0.5
+"3952" "Looney Tunes: Back in Action" "PS2" "2003" "Platform" 0.25 0.19 0 0.06 0.5
+"3964" "The Mummy Returns" "PS2" "2001" "Action" 0.25 0.19 0 0.06 0.5
+"3985" "Spider-Man 2" "DS" "2004" "Action" 0.41 0.02 0.03 0.04 0.5
+"3992" "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies" "PS2" "2004" "Action" 0.24 0.19 0 0.06 0.5
+"4001" "Tony Hawk's Underground 2" "GC" "2004" "Sports" 0.38 0.1 0 0.01 0.5
+"4005" "Shrek SuperSlam" "PS2" "2005" "Action" 0.24 0.19 0 0.06 0.5
+"4006" "Rayman Advance" "GBA" "2001" "Platform" 0.36 0.13 0 0.01 0.5
+"4010" "Fantastic 4" "PS2" "2005" "Action" 0.41 0.01 0 0.07 0.5
+"4024" "Tony Hawk's Underground 2" "GBA" "2004" "Sports" 0.35 0.13 0 0.01 0.49
+"4029" "The Matrix: Path of Neo" "PS2" "2005" "Action" 0.41 0.01 0 0.07 0.49
+"4034" "Power Rangers: Dino Thunder" "GBA" "2003" "Action" 0.35 0.13 0 0.01 0.49
+"4053" "Backyard Baseball" "PS2" "2004" "Sports" 0.24 0.19 0 0.06 0.49
+"4055" "Barbie Horse Adventures: Wild Horse Rescue" "PS2" "2003" "Sports" 0.24 0.19 0 0.06 0.49
+"4067" "Pac-Man World 2" "XB" "2002" "Action" 0.36 0.11 0 0.02 0.49
+"4089" "Madagascar: Operation Penguin" "GBA" "2005" "Action" 0.35 0.13 0 0.01 0.48
+"4095" "NFL Street 2" "XB" "2004" "Sports" 0.36 0.11 0 0.02 0.48
+"4137" "Tiger Woods PGA Tour 06" "XB" "2005" "Sports" 0.35 0.11 0 0.02 0.48
+"4163" "Castlevania: Dawn of Sorrow" "DS" "2005" "Platform" 0.37 0.04 0.03 0.04 0.47
+"4167" "ICO" "PS2" "2001" "Action" 0.23 0.18 0 0.06 0.47
+"4175" "Densetsu no Stafi" "GBA" "2002" "Platform" 0 0 0.46 0.01 0.47
+"4207" "World Soccer Winning Eleven 8: Liveware Evolution" "PS2" "2005" "Sports" 0 0 0.47 0 0.47
+"4217" "Kong: The 8th Wonder of the World" "GBA" "2005" "Action" 0.33 0.12 0 0.01 0.47
+"4223" "Metal Gear Solid: The Twin Snakes" "GC" "2004" "Action" 0.3 0.08 0.07 0.01 0.47
+"4225" "Mat Hoffman's Pro BMX 2" "PS2" "2002" "Sports" 0.23 0.18 0 0.06 0.46
+"4238" "Disney's Kim Possible 3: Team Possible" "GBA" "2005" "Platform" 0.33 0.12 0 0.01 0.46
+"4239" "Rygar: The Legendary Adventure" "PS2" "2002" "Action" 0.2 0.15 0.06 0.05 0.46
+"4244" "Stuart Little 2" "GBA" "2002" "Platform" 0.33 0.12 0 0.01 0.46
+"4247" "Tak 2: The Staff of Dreams" "GBA" "2004" "Platform" 0.33 0.12 0 0.01 0.46
+"4257" "Scooby-Doo" "GBA" "2001" "Platform" 0.33 0.12 0 0.01 0.46
+"4269" "The Mark of Kri" "PS2" "2002" "Action" 0.22 0.18 0 0.06 0.46
+"4271" "Rugrats: Castle Capers" "GBA" "2001" "Action" 0.33 0.12 0 0.01 0.46
+"4302" "Top Spin" "XB" "2003" "Sports" 0.36 0.08 0 0.02 0.46
+"4312" "2 Games in 1: SpongeBob SquarePants: SuperSponge & Rugrats Go Wild" "GBA" "2005" "Platform" 0.33 0.12 0 0.01 0.45
+"4319" "Jikkyou Powerful Pro Yakyuu 12" "PS2" "2005" "Sports" 0 0 0.45 0 0.45
+"4320" "Enter the Matrix" "GC" "2003" "Action" 0.34 0.09 0.02 0.01 0.45
+"4327" "The Powerpuff Girls: Relish Rampage" "PS2" "2002" "Action" 0.22 0.17 0 0.06 0.45
+"4343" "NHL 2005" "PS2" "2004" "Sports" 0.22 0.17 0 0.06 0.45
+"4361" "World Soccer Winning Eleven 5 Final Evolution" "PS2" "2001" "Sports" 0 0 0.45 0 0.45
+"4363" "Sphinx and the Cursed Mummy" "PS2" "2003" "Action" 0.22 0.17 0 0.06 0.45
+"4387" "Samurai Warriors: Xtreme Legends" "PS2" "2004" "Action" 0.04 0.03 0.36 0.01 0.45
+"4393" "NBA Live 2005" "GC" "2004" "Sports" 0.35 0.09 0 0.01 0.45
+"4396" "Dragon Quest Heroes: Rocket Slime" "DS" "2005" "Action" 0.13 0 0.31 0.01 0.45
+"4404" "Scooby-Doo! Mystery Mayhem" "PS2" "2004" "Action" 0.22 0.17 0 0.06 0.45
+"4405" "Mario Golf: Advance Tour" "GBA" "2004" "Sports" 0.32 0.12 0 0.01 0.45
+"4414" "World Soccer Winning Eleven 9" "XB" "2005" "Sports" 0.06 0.33 0.02 0.03 0.44
+"4416" "Teenage Mutant Ninja Turtles 2: Battle Nexus" "PS2" "2004" "Action" 0.22 0.17 0 0.06 0.44
+"4422" "Van Helsing" "PS2" "2004" "Action" 0.22 0.17 0 0.06 0.44
+"4428" "Spawn: Armageddon" "PS2" "2003" "Action" 0.22 0.17 0 0.06 0.44
+"4433" "Tiger Woods PGA Tour 2003" "XB" "2002" "Sports" 0.35 0.08 0 0.01 0.44
+"4437" "50 Cent: Bulletproof" "XB" "2005" "Action" 0.33 0.1 0 0.02 0.44
+"4438" "Densetsu no Stafi 2" "GBA" "2003" "Platform" 0 0 0.43 0.01 0.44
+"4459" "Army Men World War: Final Front" "PS" "2001" "Action" 0.24 0.17 0 0.03 0.44
+"4464" "Jikkyou Powerful Pro Yakyuu 9" "PS2" "2002" "Sports" 0 0 0.44 0 0.44
+"4468" "Wario World" "GC" "2003" "Platform" 0.34 0.09 0 0.01 0.44
+"4469" "Scooby-Doo! Mystery Mayhem" "GBA" "2003" "Action" 0.31 0.12 0 0.01 0.44
+"4476" "Battlebots: Design & Destroy" "GBA" "2003" "Action" 0.31 0.12 0 0.01 0.44
+"4479" "Power Rangers: S.P.D." "GBA" "2004" "Action" 0.31 0.12 0 0.01 0.44
+"4484" "Mobile Suit Gundam: One Year War" "PS2" "2005" "Action" 0 0 0.44 0 0.44
+"4486" "NFL Blitz 20-03" "PS2" "2002" "Sports" 0.21 0.17 0 0.06 0.44
+"4497" "Primal" "PS2" "2003" "Action" 0.21 0.17 0 0.06 0.43
+"4498" "Madden NFL 2002" "N64" "2001" "Sports" 0.41 0.02 0 0 0.43
+"4502" "SSX Tricky" "XB" "2001" "Sports" 0.32 0.09 0 0.02 0.43
+"4505" "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe" "PS2" "2005" "Action" 0.36 0.01 0 0.06 0.43
+"4509" "NCAA Football 2004" "XB" "2003" "Sports" 0.4 0.02 0 0.02 0.43
+"4513" "Bionicle" "PS2" "2003" "Action" 0.21 0.17 0 0.06 0.43
+"4515" "MLB 2002" "PS" "2001" "Sports" 0.24 0.16 0 0.03 0.43
+"4521" "The Powerpuff Girls: Him and Seek" "GBA" "2002" "Platform" 0.31 0.11 0 0.01 0.43
+"4522" "Mega Man Zero 2" "GBA" "2003" "Platform" 0.18 0.07 0.17 0.01 0.43
+"4529" "Hunter: The Reckoning  Wayward" "PS2" "2003" "Action" 0.21 0.16 0 0.06 0.43
+"4538" "EyeToy: AntiGrav" "PS2" "2004" "Sports" 0.36 0.01 0 0.06 0.43
+"4551" "Madden NFL 2003" "GC" "2002" "Sports" 0.33 0.09 0 0.01 0.43
+"4554" "Backyard Baseball" "GBA" "2002" "Sports" 0.31 0.11 0 0.01 0.43
+"4570" "NBA Street" "GC" "2002" "Sports" 0.33 0.09 0 0.01 0.42
+"4578" "NHL 2K6" "PS2" "2005" "Sports" 0.21 0.16 0 0.05 0.42
+"4587" "Tony Hawk's American Wasteland" "GC" "2005" "Sports" 0.33 0.08 0 0.01 0.42
+"4589" "Famicom Mini: Super Mario Bros. 2" "GBA" "2004" "Platform" 0 0 0.41 0.01 0.42
+"4594" "All-Star Baseball 2004" "PS2" "2003" "Sports" 0.21 0.16 0 0.05 0.42
+"4595" "Big Strike Bowling" "PS" "2003" "Sports" 0.23 0.16 0 0.03 0.42
+"4602" "ESPN NHL 2K5" "XB" "2004" "Sports" 0.32 0.09 0 0.02 0.42
+"4606" "Superman: Shadow of Apokolips" "PS2" "2002" "Action" 0.21 0.16 0 0.05 0.42
+"4610" "Star Wars Trilogy: Apprentice of the Force" "GBA" "2004" "Action" 0.3 0.11 0 0.01 0.42
+"4612" "Lemony Snicket's A Series of Unfortunate Events" "GBA" "2004" "Platform" 0.3 0.11 0 0.01 0.42
+"4614" "NBA Live 06" "PSP" "2005" "Sports" 0.39 0 0 0.03 0.42
+"4619" "Jikkyou Powerful Pro Yakyuu 11" "PS2" "2004" "Sports" 0 0 0.42 0 0.42
+"4621" "The Adventures of Jimmy Neutron Boy Genius: Jet Fusion" "PS2" "2003" "Action" 0.21 0.16 0 0.05 0.42
+"4633" "Mega Man Anniversary Collection" "GC" "2004" "Platform" 0.32 0.08 0 0.01 0.42
+"4639" "Harry Potter and the Goblet of Fire" "GC" "2005" "Action" 0.32 0.08 0 0.01 0.42
+"4643" "Condemned: Criminal Origins" "X360" "2005" "Action" 0.36 0.03 0 0.03 0.42
+"4644" "Mega Man X6" "PS" "2001" "Action" 0.14 0.1 0.16 0.03 0.42
+"4648" "Castlevania: Curse of Darkness" "PS2" "2005" "Action" 0.18 0.14 0.05 0.05 0.42
+"4652" "Jimmy Neutron: Boy Genius" "GBA" "2001" "Platform" 0.3 0.11 0 0.01 0.42
+"4670" "The Suffering" "PS2" "2004" "Action" 0.2 0.16 0 0.05 0.42
+"4675" "NBA Jam" "PS2" "2003" "Sports" 0.2 0.16 0 0.05 0.41
+"4681" "NFL GameDay 2004" "PS2" "2003" "Sports" 0.2 0.16 0 0.05 0.41
+"4706" "Jimmy Neutron: Boy Genius" "PS2" "2002" "Platform" 0.2 0.16 0 0.05 0.41
+"4732" "The Terminator: Dawn of Fate" "PS2" "2002" "Action" 0.2 0.16 0 0.05 0.41
+"4767" "Ed, Edd n Eddy: The Mis-Edventures" "PS2" "2005" "Platform" 0.34 0.01 0 0.06 0.41
+"4769" "Disney's Tarzan Untamed" "PS2" "2001" "Platform" 0.2 0.16 0 0.05 0.41
+"4773" "From Russia With Love" "PS2" "2005" "Action" 0.34 0.01 0 0.06 0.41
+"4778" "Minority Report: Everybody Runs" "PS2" "2002" "Action" 0.2 0.15 0 0.05 0.41
+"4780" "NFL GameDay 2002" "PS" "2001" "Sports" 0.23 0.15 0 0.03 0.4
+"4789" "Tak and the Power of Juju" "GC" "2003" "Platform" 0.31 0.08 0 0.01 0.4
+"4804" "Harry Potter: Quidditch World Cup" "GC" "2003" "Sports" 0.31 0.08 0 0.01 0.4
+"4810" "The Incredibles: Rise of the Underminer" "GBA" "2005" "Action" 0.29 0.11 0 0.01 0.4
+"4814" "Power Rangers: Dino Thunder" "GC" "2004" "Action" 0.31 0.08 0 0.01 0.4
+"4837" "MLB 2006" "PS2" "2005" "Sports" 0.33 0.01 0 0.05 0.4
+"4841" "Rocket Power: Dream Scheme" "GBA" "2001" "Action" 0.29 0.11 0 0.01 0.4
+"4849" "Nicktoons: Freeze Frame Frenzy" "GBA" "2004" "Action" 0.29 0.11 0 0.01 0.4
+"4861" "NBA Live 2002" "XB" "2001" "Sports" 0.35 0.03 0 0.02 0.4
+"4864" "I-Ninja" "PS2" "2003" "Platform" 0.19 0.15 0 0.05 0.4
+"4881" "Ultimate Spider-Man" "XB" "2005" "Action" 0.26 0.11 0 0.02 0.39
+"4897" "Disney's Brother Bear" "GBA" "2003" "Action" 0.28 0.1 0 0.01 0.39
+"4923" "Yoshi Touch & Go" "DS" "2005" "Platform" 0.34 0.02 0 0.03 0.39
+"4928" "SSX 3" "XB" "2003" "Sports" 0.29 0.08 0 0.01 0.39
+"4930" "Madden NFL 2005" "GBA" "2004" "Sports" 0.28 0.1 0 0.01 0.39
+"4941" "Blood Omen 2" "PS2" "2002" "Action" 0.19 0.15 0 0.05 0.39
+"4946" "Cabela's Dangerous Hunts 2" "PS2" "2005" "Sports" 0.19 0.15 0 0.05 0.39
+"4974" "Harry Potter: Quidditch World Cup" "GBA" "2003" "Sports" 0.28 0.1 0 0.01 0.39
+"4977" "Evil Dead: Fistfull of Boomstick" "PS2" "2003" "Action" 0.19 0.15 0 0.05 0.38
+"4989" "ESPN College Hoops 2K5" "XB" "2004" "Sports" 0.29 0.08 0 0.01 0.38
+"4999" "The Cat in the Hat" "GBA" "2005" "Platform" 0.27 0.1 0 0.01 0.38
+"5001" "NFL GameDay 2002" "PS2" "2001" "Sports" 0.19 0.15 0 0.05 0.38
+"5006" "Ice Age" "GBA" "2002" "Action" 0.27 0.1 0 0.01 0.38
+"5008" "Headhunter" "PS2" "2002" "Action" 0.19 0.15 0 0.05 0.38
+"5023" "SSX 3" "GC" "2003" "Sports" 0.29 0.08 0 0.01 0.38
+"5026" "Lilo & Stitch 2: Hämsterviel Havoc" "GBA" "2004" "Action" 0.27 0.1 0 0.01 0.38
+"5046" "Hunter: The Reckoning" "XB" "2002" "Action" 0.28 0.08 0 0.01 0.38
+"5080" "Harry Potter and the Prisoner of Azkaban" "GC" "2004" "Action" 0.29 0.08 0 0.01 0.38
+"5096" "Ultimate Spider-Man" "GC" "2005" "Action" 0.29 0.07 0 0.01 0.37
+"5099" "NBA Inside Drive 2002" "XB" "2002" "Sports" 0.28 0.08 0 0.01 0.37
+"5109" "Monsters, Inc. Scream Arena" "GC" "2002" "Platform" 0.29 0.07 0 0.01 0.37
+"5110" "Reel Fishing III" "PS2" "2003" "Sports" 0.18 0.14 0 0.05 0.37
+"5111" "Cabela's Deer Hunt 2005 Season" "PS2" "2004" "Sports" 0.18 0.14 0 0.05 0.37
+"5114" "High Heat Major League Baseball 2003" "PS2" "2002" "Sports" 0.18 0.14 0 0.05 0.37
+"5134" "Pac-Man World 2" "GC" "2002" "Action" 0.28 0.07 0 0.01 0.37
+"5136" "Barbie Horse Adventures: Blue Ribbon Race" "GBA" "2003" "Sports" 0.26 0.1 0 0.01 0.37
+"5142" "NFL Street 2 Unleashed" "PSP" "2005" "Sports" 0.34 0 0 0.03 0.37
+"5171" "ESPN X Games Skateboarding" "PS2" "2001" "Sports" 0.18 0.14 0 0.05 0.36
+"5177" "High Heat Major League Baseball 2004" "PS2" "2003" "Sports" 0.18 0.14 0 0.05 0.36
+"5178" "Robots" "PS2" "2005" "Action" 0.18 0.14 0 0.05 0.36
+"5187" "The Incredibles: Rise of the Underminer" "PS2" "2005" "Action" 0.18 0.14 0 0.05 0.36
+"5192" "Hamtaro: Ham-Ham Heartbreak" "GBA" "2002" "Action" 0.26 0.1 0 0.01 0.36
+"5204" "NBA 2K6" "XB" "2005" "Action" 0.27 0.08 0 0.01 0.36
+"5213" "Shaun Palmer's Pro Snowboarder" "GBA" "2001" "Sports" 0.26 0.1 0 0.01 0.36
+"5224" "ESPN NFL Football" "XB" "2003" "Sports" 0.27 0.08 0 0.01 0.36
+"5229" "Rapala Pro Fishing" "PS2" "2004" "Sports" 0.18 0.14 0 0.05 0.36
+"5230" "J-League Pro Soccer Club o Tsukurou '04" "PS2" "2004" "Sports" 0 0 0.36 0 0.36
+"5235" "Disney's The Haunted Mansion" "PS2" "2003" "Platform" 0.18 0.14 0 0.05 0.36
+"5249" "Harry Potter and the Chamber of Secrets" "XB" "2002" "Action" 0.27 0.08 0 0.01 0.36
+"5263" "Shrek" "XB" "2001" "Platform" 0.25 0.1 0 0.01 0.36
+"5268" "Backyard Baseball 2006" "GBA" "2005" "Sports" 0.25 0.09 0 0.01 0.35
+"5270" "Cabela's Outdoor Adventures (2006)" "PS2" "2005" "Sports" 0.17 0.14 0 0.05 0.35
+"5276" "Outlaw Golf 2" "PS2" "2004" "Sports" 0.17 0.14 0 0.05 0.35
+"5283" "Batman: Rise of Sin Tzu" "PS2" "2003" "Action" 0.17 0.13 0 0.05 0.35
+"5284" "Disney's Tarzan: Return to the Jungle" "GBA" "2002" "Action" 0.25 0.09 0 0.01 0.35
+"5285" "Cabela's Dangerous Hunts" "XB" "2003" "Sports" 0.26 0.08 0 0.01 0.35
+"5296" "Star Wars: Flight of the Falcon" "GBA" "2003" "Action" 0.25 0.09 0 0.01 0.35
+"5310" "Resident Evil: Dead Aim" "PS2" "2003" "Action" 0.17 0.13 0 0.04 0.35
+"5312" "The Adventures of Jimmy Neutron Boy Genius: Jet Fusion" "GBA" "2003" "Action" 0.25 0.09 0 0.01 0.35
+"5313" "SpongeBob SquarePants: The Yellow Avenger" "DS" "2005" "Action" 0.32 0 0 0.02 0.35
+"5314" "The Fairly Odd Parents: Shadow Showdown" "PS2" "2004" "Platform" 0.17 0.13 0 0.04 0.35
+"5328" "Aggressive Inline" "PS2" "2002" "Sports" 0.17 0.13 0 0.04 0.35
+"5330" "NFL Street" "GC" "2004" "Sports" 0.27 0.07 0 0.01 0.35
+"5340" "Rugrats: Royal Ransom" "PS2" "2002" "Platform" 0.17 0.13 0 0.04 0.35
+"5355" "The Wild Thornberrys Movie" "GBA" "2002" "Platform" 0.25 0.09 0 0.01 0.34
+"5362" "Classic NES Series: Ice Climber" "GBA" "2004" "Platform" 0.1 0.04 0.2 0.01 0.34
+"5368" "Driver 2 Advance" "GBA" "2002" "Action" 0.25 0.09 0 0.01 0.34
+"5376" "The Fairly Odd Parents: Shadow Showdown" "GBA" "2004" "Platform" 0.25 0.09 0 0.01 0.34
+"5385" "Kameo: Elements of Power" "X360" "2005" "Action" 0.28 0.03 0 0.03 0.34
+"5423" "Teenage Mutant Ninja Turtles" "GC" "2003" "Action" 0.26 0.07 0 0.01 0.34
+"5451" "Banjo-Kazooie: Grunty's Revenge" "GBA" "2003" "Platform" 0.24 0.09 0 0.01 0.33
+"5470" "Hulk" "XB" "2003" "Action" 0.25 0.07 0 0.01 0.33
+"5474" "Klonoa 2: Lunatea's Veil" "PS2" "2001" "Platform" 0.12 0.1 0.08 0.03 0.33
+"5478" "Disney's Treasure Planet" "PS2" "2002" "Action" 0.16 0.13 0 0.04 0.33
+"5484" "Tak 2: The Staff of Dreams" "GC" "2004" "Platform" 0.26 0.07 0 0.01 0.33
+"5487" "Kelly Slater's Pro Surfer" "PS2" "2002" "Sports" 0.16 0.13 0 0.04 0.33
+"5488" "Shrek SuperSlam" "GBA" "2005" "Action" 0.24 0.09 0 0.01 0.33
+"5501" "Cool Boarders 2001" "PS2" "2001" "Sports" 0.16 0.13 0 0.04 0.33
+"5502" "Classic NES Series: Castlevania" "GBA" "2004" "Platform" 0.17 0.06 0.09 0.01 0.33
+"5507" "Way of the Samurai 2" "PS2" "2003" "Action" 0.05 0.04 0.23 0.01 0.33
+"5535" "Spy Kids 3-D: Game Over" "GBA" "2003" "Platform" 0.24 0.09 0 0.01 0.33
+"5546" "MVP Baseball 2005" "GC" "2005" "Sports" 0.25 0.07 0 0.01 0.33
+"5563" "NBA Live 06" "GC" "2005" "Sports" 0.25 0.07 0 0.01 0.33
+"5580" "Teenage Mutant Ninja Turtles 2: Battle Nexus" "GBA" "2004" "Action" 0.23 0.09 0 0.01 0.32
+"5581" "Nicktoons: Movin'" "PS2" "2004" "Action" 0.16 0.12 0 0.04 0.32
+"5601" "NBA Street V3" "XB" "2005" "Sports" 0.28 0.03 0 0.01 0.32
+"5615" "Tony Hawk's American Wasteland" "X360" "2005" "Sports" 0.28 0.02 0 0.03 0.32
+"5629" "Prince of Persia: The Sands of Time" "GC" "2003" "Action" 0.25 0.06 0 0.01 0.32
+"5635" "Fortress" "GBA" "2001" "Action" 0.23 0.08 0 0.01 0.32
+"5640" "Frogger's Adventures: The Rescue" "PS2" "2003" "Platform" 0.16 0.12 0 0.04 0.32
+"5651" "SpongeBob SquarePants: Double Pack" "GBA" "2005" "Platform" 0.23 0.08 0 0.01 0.32
+"5654" "Disney's Extreme Skate Adventure" "PS2" "2003" "Sports" 0.16 0.12 0 0.04 0.32
+"5664" "NBA 2K3" "XB" "2002" "Sports" 0.24 0.07 0 0.01 0.32
+"5674" "NFL Fever 2004" "XB" "2003" "Sports" 0.24 0.07 0 0.01 0.32
+"5675" "Madden NFL 2002" "GBA" "2001" "Sports" 0.23 0.08 0 0.01 0.32
+"5683" "Power Rangers: Time Force" "PS" "2001" "Action" 0.18 0.12 0 0.02 0.32
+"5694" "Dynasty Warriors 4 Empires" "PS2" "2004" "Action" 0 0 0.32 0 0.32
+"5713" "Madden NFL 2004" "GBA" "2003" "Sports" 0.22 0.08 0 0.01 0.31
+"5722" "NBA Inside Drive 2003" "XB" "2002" "Sports" 0.23 0.07 0 0.01 0.31
+"5723" "FIFA Street" "PS2" "2005" "Sports" 0.15 0.12 0 0.04 0.31
+"5725" "Star Wars Episode III: Revenge of the Sith" "DS" "2005" "Action" 0.25 0.03 0 0.03 0.31
+"5734" "The Matrix: Path of Neo" "XB" "2005" "Action" 0.23 0.07 0 0.01 0.31
+"5735" "Mortal Kombat: Shaolin Monks" "XB" "2005" "Action" 0.23 0.07 0 0.01 0.31
+"5747" "KISS Pinball" "PS" "2001" "Action" 0.17 0.12 0 0.02 0.31
+"5749" "2 Games in 1: Disney's Brother Bear / The Lion King 1 1/2" "GBA" "2005" "Action" 0.22 0.08 0 0.01 0.31
+"5751" "Mega Man Maverick Hunter X" "PSP" "2005" "Platform" 0.27 0.01 0 0.03 0.31
+"5772" "Mega Man Battle Network 2" "GBA" "2002" "Action" 0.22 0.08 0 0.01 0.31
+"5776" "Madagascar" "DS" "2005" "Platform" 0.25 0.04 0 0.03 0.31
+"5777" "Tiger Woods PGA Tour 06" "X360" "2005" "Sports" 0.28 0 0 0.02 0.31
+"5796" "NCAA Final Four 2002" "PS2" "2001" "Sports" 0.15 0.12 0 0.04 0.31
+"5802" "Blade II" "PS2" "2002" "Action" 0.15 0.12 0 0.04 0.31
+"5816" "Disney's Stitch: Experiment 626" "PS2" "2002" "Action" 0.15 0.12 0 0.04 0.31
+"5823" "Ultimate Spider-Man" "GBA" "2005" "Action" 0.22 0.08 0 0.01 0.3
+"5834" "Spyro: Attack of the Rhynocs" "GBA" "2003" "Platform" 0.22 0.08 0 0.01 0.3
+"5847" "Lizzie McGuire 3: Homecoming Havoc" "GBA" "2005" "Platform" 0.22 0.08 0 0.01 0.3
+"5848" "Chaos Legion" "PS2" "2003" "Action" 0.15 0.12 0 0.04 0.3
+"5884" "Hard Hitter Tennis" "PS2" "2001" "Sports" 0.15 0.11 0 0.04 0.3
+"5896" "Yu Yu Hakusho Ghost Files: Spirit Detective" "GBA" "2003" "Action" 0.21 0.08 0 0.01 0.3
+"5932" "Power Pro Kun Pocket 6" "GBA" "2003" "Sports" 0 0 0.29 0.01 0.3
+"5937" "Finding Nemo: The Continuing Adventures" "GBA" "2004" "Action" 0.21 0.08 0 0.01 0.3
+"5938" "Spirit: Stallion of the Cimarron" "GBA" "2002" "Platform" 0.21 0.08 0 0.01 0.3
+"5944" "Shark Tale" "GC" "2004" "Action" 0.23 0.06 0 0.01 0.3
+"5946" "MLB SlugFest Loaded" "PS2" "2004" "Sports" 0.14 0.11 0 0.04 0.3
+"5947" "Teenage Mutant Ninja Turtles" "XB" "2003" "Action" 0.22 0.06 0 0.01 0.3
+"5953" "AMF Bowling 2004" "XB" "2003" "Sports" 0.22 0.06 0 0.01 0.3
+"5955" "Scooby-Doo! Night of 100 Frights" "GC" "2002" "Platform" 0.23 0.06 0 0.01 0.3
+"5970" "Power Pro Kun Pocket 4" "GBA" "2002" "Sports" 0 0 0.29 0.01 0.29
+"5976" "Outlaw Golf" "XB" "2002" "Sports" 0.22 0.06 0 0.01 0.29
+"5987" "NBA Street V3" "GC" "2005" "Sports" 0.23 0.06 0 0.01 0.29
+"5994" "NBA Live 06" "X360" "2005" "Sports" 0.27 0 0 0.02 0.29
+"6017" "Mega Man X8" "PS2" "2004" "Platform" 0.14 0.11 0 0.04 0.29
+"6023" "Jikkyou Powerful Pro Yakyuu 8" "PS2" "2001" "Sports" 0 0 0.29 0 0.29
+"6051" "The Punisher" "XB" "2005" "Action" 0.22 0.06 0 0.01 0.29
+"6078" "Rayman 3: Hoodlum Havoc" "PS2" "2003" "Platform" 0.14 0.11 0 0.04 0.29
+"6093" "Spyro: A Hero's Tail" "GC" "2004" "Platform" 0.22 0.06 0 0.01 0.29
+"6096" "Links 2004" "XB" "2003" "Sports" 0.21 0.06 0 0.01 0.29
+"6101" "Earthworm Jim" "GBA" "2001" "Platform" 0.2 0.08 0 0.01 0.29
+"6113" "Disney's Extreme Skate Adventure" "GBA" "2003" "Sports" 0.2 0.08 0 0.01 0.28
+"6114" "Dragon Ball GT: Transformation" "GBA" "2005" "Action" 0.2 0.08 0 0.01 0.28
+"6121" "The Warriors" "XB" "2005" "Action" 0.21 0.06 0 0.01 0.28
+"6127" "Street Hoops" "XB" "2002" "Sports" 0.21 0.06 0 0.01 0.28
+"6129" "X-Men: Reign of Apocalypse" "GBA" "2001" "Action" 0.2 0.08 0 0.01 0.28
+"6132" "Netsu Chu! Pro Yakyuu 2003" "PS2" "2003" "Sports" 0 0 0.28 0 0.28
+"6135" "Fantastic 4: Flame On" "GBA" "2005" "Action" 0.2 0.08 0 0.01 0.28
+"6147" "Viewtiful Joe" "PS2" "2004" "Action" 0.14 0.11 0 0.04 0.28
+"6151" "Arcade Hits: Frisky Tom" "PS" "2002" "Action" 0.16 0.11 0 0.02 0.28
+"6153" "Harry Potter and the Sorcerer's Stone" "PS2" "2003" "Action" 0.14 0.11 0 0.04 0.28
+"6168" "Rocket Power: Beach Bandits" "GBA" "2002" "Platform" 0.2 0.07 0 0.01 0.28
+"6177" "Mission: Impossible - Operation Surma" "PS2" "2003" "Platform" 0.14 0.11 0 0.04 0.28
+"6180" "Pitfall: The Mayan Adventure" "GBA" "2001" "Platform" 0.2 0.07 0 0.01 0.28
+"6188" "Disney's Treasure Planet" "GBA" "2002" "Action" 0.2 0.07 0 0.01 0.28
+"6192" "NFL Blitz 20-02" "PS2" "2002" "Sports" 0.14 0.11 0 0.04 0.28
+"6194" "NCAA March Madness 2005" "XB" "2004" "Sports" 0.21 0.06 0 0.01 0.28
+"6201" "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies" "GC" "2004" "Action" 0.22 0.06 0 0.01 0.28
+"6202" "Silent Hill 2: Restless Dreams" "XB" "2001" "Action" 0.21 0.06 0 0.01 0.28
+"6209" "Bass Strike" "PS2" "2001" "Sports" 0.14 0.11 0 0.04 0.28
+"6210" "NHL Hitz 20-03" "PS2" "2002" "Sports" 0.14 0.11 0 0.04 0.28
+"6224" "Madagascar" "XB" "2005" "Platform" 0.21 0.06 0 0.01 0.28
+"6231" "Deer Hunter" "PS2" "2003" "Sports" 0.14 0.11 0 0.04 0.28
+"6237" "Dave Mirra Freestyle BMX 2" "GC" "2001" "Sports" 0.21 0.06 0 0.01 0.28
+"6243" "True Crime: New York City" "XB" "2005" "Action" 0.21 0.06 0 0.01 0.28
+"6244" "Summer Heat Beach Volleyball" "PS2" "2003" "Sports" 0.14 0.11 0 0.04 0.28
+"6249" "Power Pro Kun Pocket 3" "GBA" "2001" "Sports" 0 0 0.27 0.01 0.28
+"6251" "Castlevania: Aria of Sorrow" "GBA" "2003" "Platform" 0.2 0.07 0 0 0.28
+"6281" "Tiny Toon Adventures: Plucky's Big Adventure" "PS" "2001" "Action" 0.15 0.1 0 0.02 0.27
+"6282" "NHL Hitz 20-02" "XB" "2001" "Sports" 0.2 0.06 0 0.01 0.27
+"6291" "Dave Mirra Freestyle BMX: Maximum Remix" "PS" "2001" "Sports" 0.15 0.1 0 0.02 0.27
+"6300" "Athens 2004" "PS2" "2004" "Sports" 0.13 0.1 0 0.03 0.27
+"6311" "Rocky: Legends" "PS2" "2004" "Action" 0.13 0.1 0 0.03 0.27
+"6327" "Disney's Chicken Little" "GC" "2005" "Platform" 0.21 0.05 0 0.01 0.27
+"6329" "Ty the Tasmanian Tiger" "GC" "2002" "Platform" 0.21 0.05 0 0.01 0.27
+"6340" "NHL 2002" "XB" "2001" "Sports" 0.2 0.06 0 0.01 0.27
+"6349" "Shadow of Rome" "PS2" "2005" "Action" 0.13 0.1 0 0.03 0.27
+"6356" "Fantastic 4" "XB" "2005" "Action" 0.2 0.06 0 0.01 0.27
+"6357" "Mat Hoffman's Pro BMX" "GBA" "2001" "Sports" 0.19 0.07 0 0 0.27
+"6373" "NBA Live 2004" "GC" "2003" "Sports" 0.21 0.05 0 0.01 0.27
+"6405" "Knockout Kings 2002" "XB" "2002" "Sports" 0.2 0.06 0 0.01 0.27
+"6426" "Operation Armored Liberty" "GBA" "2003" "Action" 0.19 0.07 0 0 0.27
+"6439" "ESPN NBA Basketball" "XB" "2003" "Sports" 0.2 0.06 0 0.01 0.27
+"6449" "Rayman DS" "DS" "2005" "Platform" 0.21 0.04 0 0.02 0.26
+"6455" "Rune: Viking Warlord" "PS2" "2001" "Action" 0.13 0.1 0 0.03 0.26
+"6473" "Rugrats: I Gotta Go Party" "GBA" "2002" "Action" 0.19 0.07 0 0 0.26
+"6487" "The Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron" "GBA" "2002" "Action" 0.19 0.07 0 0 0.26
+"6491" "Hey Arnold! The Movie" "GBA" "2002" "Platform" 0.19 0.07 0 0 0.26
+"6508" "Madden NFL 2005" "DS" "2004" "Sports" 0.24 0 0 0.02 0.26
+"6511" "Power Pro Kun Pocket 5" "GBA" "2003" "Sports" 0 0 0.25 0.01 0.26
+"6529" "Evolution Skateboarding" "PS2" "2002" "Sports" 0.13 0.1 0 0.03 0.26
+"6535" "Outlaw Volleyball" "XB" "2003" "Sports" 0.19 0.06 0 0.01 0.26
+"6555" "Classic NES Series: Bomberman" "GBA" "2004" "Action" 0.1 0.04 0.11 0.01 0.26
+"6557" "Peter Jackson's King Kong: The Official Game of the Movie" "X360" "2005" "Action" 0.2 0.03 0 0.02 0.26
+"6560" "Frogger's Journey: The Forgotten Relic" "GBA" "2003" "Action" 0.18 0.07 0 0 0.26
+"6579" "Lemony Snicket's A Series of Unfortunate Events" "GC" "2004" "Platform" 0.2 0.05 0 0.01 0.26
+"6581" "Bionicle: Matoran Adventures" "GBA" "2002" "Platform" 0.18 0.07 0 0 0.26
+"6591" "Backyard NFL Football" "GC" "2002" "Sports" 0.2 0.05 0 0.01 0.26
+"6592" "All-Star Baseball 2003" "XB" "2002" "Sports" 0.19 0.06 0 0.01 0.26
+"6598" "NBA ShootOut 2004" "PS2" "2003" "Sports" 0.13 0.1 0 0.03 0.26
+"6601" "Castlevania: Harmony of Dissonance" "GBA" "2002" "Platform" 0.16 0.06 0.04 0 0.26
+"6607" "MVP Baseball 2004" "GC" "2004" "Sports" 0.2 0.05 0 0.01 0.26
+"6637" "Triple Play 2002" "XB" "2002" "Sports" 0.19 0.05 0 0.01 0.25
+"6640" "Spy Kids Challenger" "GBA" "2002" "Platform" 0.18 0.07 0 0 0.25
+"6646" "Amped 2" "XB" "2003" "Sports" 0.2 0.04 0 0.01 0.25
+"6658" "The Powerpuff Girls: Chemical X-Traction" "PS" "2001" "Action" 0.14 0.1 0 0.02 0.25
+"6667" "Billy Hatcher and the Giant Egg" "GC" "2003" "Platform" 0.19 0.05 0 0.01 0.25
+"6677" "NHL 06" "XB" "2005" "Sports" 0.19 0.05 0 0.01 0.25
+"6698" "Scooby-Doo! Unmasked" "PS2" "2005" "Platform" 0.12 0.1 0 0.03 0.25
+"6703" "World Series Baseball 2K3" "PS2" "2003" "Sports" 0.12 0.1 0 0.03 0.25
+"6713" "Devil Kings" "PS2" "2005" "Action" 0.03 0.03 0.18 0.01 0.25
+"6718" "Tennis no Oji-Sama: Genius Boys Academy" "GBA" "2002" "Sports" 0 0 0.24 0.01 0.25
+"6722" "Netsu Chu! Pro Yakyuu 2002" "PS2" "2002" "Sports" 0 0 0.25 0 0.25
+"6740" "Ed, Edd n Eddy: The Mis-Edventures" "GC" "2005" "Platform" 0.19 0.05 0 0.01 0.25
+"6758" "Butt Ugly Martians: B.K.M. Battles" "GBA" "2002" "Action" 0.18 0.07 0 0 0.25
+"6764" "NBA Courtside 2002" "GC" "2002" "Sports" 0.19 0.05 0 0.01 0.25
+"6776" "Jikkyou Powerful Pro Yakyuu 2001" "PS" "2001" "Sports" 0 0 0.23 0.02 0.24
+"6789" "MLB" "PSP" "2005" "Sports" 0.23 0 0 0.02 0.24
+"6800" "World Soccer Winning Eleven 7" "PS2" "2003" "Sports" 0.12 0.09 0 0.03 0.24
+"6805" "Vexx" "PS2" "2003" "Platform" 0.12 0.09 0 0.03 0.24
+"6814" "Genma Onimusha" "XB" "2002" "Action" 0.14 0.04 0.05 0.01 0.24
+"6815" "DK: King of Swing" "GBA" "2005" "Platform" 0.17 0.06 0 0 0.24
+"6824" "Harry Potter and the Goblet of Fire" "DS" "2005" "Action" 0.21 0.02 0 0.02 0.24
+"6839" "Peter Jackson's King Kong: The Official Game of the Movie" "GC" "2005" "Action" 0.19 0.05 0 0.01 0.24
+"6848" "Azurik: Rise of Perathia" "XB" "2001" "Action" 0.18 0.05 0 0.01 0.24
+"6875" "NCAA College Basketball 2K3" "PS2" "2002" "Sports" 0.12 0.09 0 0.03 0.24
+"6878" "NCAA March Madness 2004" "XB" "2003" "Sports" 0.18 0.05 0 0.01 0.24
+"6880" "Fantastic 4" "GC" "2005" "Action" 0.19 0.05 0 0.01 0.24
+"6883" "Tony Hawk's American Sk8land" "GBA" "2005" "Sports" 0.17 0.06 0 0 0.24
+"6887" "Densetsu no Stafi 3" "GBA" "2004" "Platform" 0 0 0.23 0.01 0.24
+"6889" "Ratchet & Clank: Going Commando (JP weekly sales)" "PS2" "2003" "Action" 0 0 0.24 0 0.24
+"6893" "The Hobbit" "XB" "2003" "Platform" 0.18 0.05 0 0.01 0.24
+"6906" "Grand Theft Auto" "GBA" "2004" "Action" 0.17 0.06 0 0 0.24
+"6936" "Polly Pocket: Super Splash Island" "GBA" "2003" "Action" 0.17 0.06 0 0 0.24
+"6958" "Wallace & Gromit in Project Zoo" "PS2" "2003" "Platform" 0.11 0.09 0 0.03 0.23
+"6972" "Buffy the Vampire Slayer" "XB" "2002" "Action" 0.18 0.05 0 0.01 0.23
+"6975" "Harry Potter and the Goblet of Fire" "XB" "2005" "Action" 0.18 0.05 0 0.01 0.23
+"6989" "SSX On Tour" "PSP" "2005" "Sports" 0.19 0.02 0 0.02 0.23
+"6991" "World Series Baseball" "XB" "2002" "Sports" 0.17 0.05 0 0.01 0.23
+"7002" "The Scorpion King: Rise of the Akkadian" "PS2" "2002" "Action" 0.11 0.09 0 0.03 0.23
+"7010" "Tom Clancy's Splinter Cell" "GC" "2003" "Action" 0.18 0.05 0 0.01 0.23
+"7014" "ESPN NHL Hockey" "PS2" "2003" "Sports" 0.11 0.09 0 0.03 0.23
+"7017" "The Incredible Hulk: Ultimate Destruction" "XB" "2005" "Action" 0.17 0.05 0 0.01 0.23
+"7019" "NCAA GameBreaker 2003" "PS2" "2002" "Sports" 0.11 0.09 0 0.03 0.23
+"7024" "Rocket Power: Beach Bandits" "GC" "2002" "Platform" 0.18 0.05 0 0.01 0.23
+"7028" "NBA 2K6" "X360" "2005" "Action" 0.21 0.01 0 0.02 0.23
+"7043" "Madden NFL 06" "GBA" "2005" "Sports" 0.17 0.06 0 0 0.23
+"7052" "Mafia" "XB" "2004" "Action" 0.17 0.05 0 0.01 0.23
+"7055" "Airblade" "PS2" "2001" "Sports" 0.11 0.09 0 0.03 0.23
+"7057" "Mega Man & Bass" "GBA" "2002" "Platform" 0.16 0.06 0 0 0.23
+"7067" "Pro Yakyuu Team o Tsukurou! 2" "PS2" "2003" "Sports" 0 0 0.23 0 0.23
+"7072" "Genji: Dawn of the Samurai" "PS2" "2005" "Action" 0.11 0.09 0 0.03 0.23
+"7098" "Tiger Woods PGA Tour 2003" "GC" "2002" "Sports" 0.18 0.05 0 0.01 0.23
+"7100" "NFL Blitz Pro" "PS2" "2003" "Sports" 0.11 0.09 0 0.03 0.23
+"7113" "NCAA GameBreaker 2004" "PS2" "2003" "Sports" 0.11 0.09 0 0.03 0.23
+"7122" "NBA ShootOut 2003" "PS2" "2002" "Sports" 0.11 0.09 0 0.03 0.23
+"7127" "NHL FaceOff 2003" "PS2" "2002" "Sports" 0.11 0.09 0 0.03 0.23
+"7129" "Rogue Ops" "PS2" "2003" "Action" 0.11 0.09 0 0.03 0.23
+"7130" "NBA Street: Showdown" "PSP" "2005" "Sports" 0.2 0 0 0.02 0.23
+"7135" "Legion: The Legend of Excalibur" "PS2" "2002" "Action" 0.11 0.09 0 0.03 0.22
+"7143" "Spartan: Total Warrior" "PS2" "2005" "Action" 0.11 0.09 0 0.03 0.22
+"7159" "Whirl Tour" "PS2" "2002" "Sports" 0.11 0.09 0 0.03 0.22
+"7174" "NCAA Football 2005" "GC" "2004" "Sports" 0.17 0.04 0 0.01 0.22
+"7175" "Hamtaro: Ham-Ham Games" "GBA" "2004" "Sports" 0.16 0.06 0 0 0.22
+"7176" "Danny Phantom: The Ultimate Enemy" "GBA" "2005" "Action" 0.16 0.06 0 0 0.22
+"7195" "Mobile Suit Gundam Seed" "PS2" "2003" "Action" 0 0 0.22 0 0.22
+"7199" "Mega Man Zero 3" "GBA" "2004" "Platform" 0.16 0.06 0 0 0.22
+"7220" "The Suffering" "XB" "2004" "Action" 0.16 0.05 0 0.01 0.22
+"7231" "Viewtiful Joe 2" "GC" "2004" "Action" 0.17 0.04 0 0.01 0.22
+"7248" "All-Star Baseball 2002" "GC" "2001" "Sports" 0.17 0.04 0 0.01 0.22
+"7257" "From Russia With Love" "GC" "2005" "Action" 0.17 0.04 0 0.01 0.22
+"7262" "NFL Quarterback Club 2002" "PS2" "2001" "Sports" 0.11 0.08 0 0.03 0.22
+"7270" "Rugby 2004" "PS2" "2003" "Sports" 0.11 0.08 0 0.03 0.22
+"7271" "Disney's Magical Quest Starring Mickey and Minnie" "GBA" "2002" "Action" 0.16 0.06 0 0 0.22
+"7273" "NBA 06" "PSP" "2005" "Sports" 0.2 0 0 0.02 0.22
+"7274" "Naruto: Ninja Council" "GBA" "2003" "Action" 0.16 0.06 0 0 0.22
+"7280" "NFL 2K3" "GC" "2002" "Sports" 0.17 0.04 0 0.01 0.22
+"7282" "Saltwater Sportfishing" "PS" "2001" "Sports" 0.12 0.08 0 0.01 0.22
+"7283" "Yoshi Touch & Go (JP sales)" "DS" "2005" "Platform" 0 0 0.22 0 0.22
+"7284" "Samurai Jack: The Amulet of Time" "GBA" "2003" "Platform" 0.16 0.06 0 0 0.22
+"7294" "Scooby-Doo! Mystery Mayhem" "GC" "2004" "Action" 0.17 0.04 0 0.01 0.22
+"7299" "Shrek SuperSlam" "GC" "2005" "Action" 0.17 0.04 0 0.01 0.22
+"7314" "Dark Summit" "PS2" "2001" "Sports" 0.11 0.08 0 0.03 0.21
+"7316" "Cabela's Big Game Hunter: Ultimate Challenge" "PS" "2001" "Sports" 0.12 0.08 0 0.01 0.21
+"7325" "NBA" "PSP" "2005" "Sports" 0.2 0 0 0.02 0.21
+"7332" "Disaster Report" "PS2" "2002" "Action" 0.03 0.02 0.15 0.01 0.21
+"7356" "Tony Hawk's American Sk8land" "DS" "2005" "Sports" 0.19 0.01 0 0.02 0.21
+"7363" "NHL 2K6" "XB" "2005" "Sports" 0.16 0.05 0 0.01 0.21
+"7364" "Tenchu: Return From Darkness" "XB" "2004" "Action" 0.16 0.05 0 0.01 0.21
+"7368" "MVP Baseball" "PSP" "2005" "Sports" 0.2 0 0 0.02 0.21
+"7379" "Viewtiful Joe 2" "PS2" "2004" "Action" 0.1 0.08 0 0.03 0.21
+"7381" "Pac-Man World 3" "PS2" "2005" "Platform" 0.1 0.08 0 0.03 0.21
+"7399" "Maximo vs Army of Zin" "PS2" "2003" "Platform" 0.1 0.08 0 0.03 0.21
+"7400" "The Fairly OddParents: Breakin' Da Rules" "GC" "2003" "Platform" 0.16 0.04 0 0.01 0.21
+"7405" "The Land Before Time: Big Water Adventure" "PS" "2002" "Platform" 0.12 0.08 0 0.01 0.21
+"7408" "Cabela's Deer Hunt: 2004 Season" "XB" "2003" "Sports" 0.16 0.05 0 0.01 0.21
+"7423" "Bionicle" "GC" "2003" "Action" 0.16 0.04 0 0.01 0.21
+"7428" "Famicom Mini: Ganbare Goemon! Karakuri Douchuu" "GBA" "2004" "Platform" 0 0 0.2 0.01 0.21
+"7431" "Deus Ex: The Conspiracy" "PS2" "2002" "Action" 0.1 0.08 0 0.03 0.21
+"7436" "Batman Begins" "XB" "2005" "Action" 0.16 0.04 0 0.01 0.21
+"7439" "Shrek: Reekin' Havoc" "GBA" "2003" "Platform" 0.15 0.06 0 0 0.21
+"7442" "JSRF: Jet Set Radio Future" "XB" "2002" "Action" 0.13 0.04 0.03 0.01 0.21
+"7443" "NHL Hitz 20-02" "GC" "2001" "Sports" 0.16 0.04 0 0.01 0.21
+"7445" "NCAA Football 2003" "GC" "2002" "Sports" 0.16 0.04 0 0.01 0.21
+"7449" "Project: Snowblind" "PS2" "2005" "Action" 0.1 0.08 0 0.03 0.21
+"7460" "Evil Dead: Regeneration" "PS2" "2005" "Action" 0.1 0.08 0 0.03 0.21
+"7463" "NHL 2003" "XB" "2002" "Sports" 0.15 0.04 0 0.01 0.21
+"7467" "Tiger Woods PGA Tour" "PSP" "2005" "Sports" 0.19 0 0 0.02 0.21
+"7469" "NHL 2K3" "PS2" "2002" "Sports" 0.1 0.08 0 0.03 0.21
+"7478" "Gallop Racer 2003: A New Breed" "PS2" "2002" "Sports" 0.04 0.03 0.12 0.01 0.21
+"7480" "BeyBlade VForce: Super Tournament Battle" "GC" "2002" "Action" 0.16 0.04 0 0.01 0.21
+"7481" "Outlaw Golf 2" "XB" "2004" "Sports" 0.15 0.04 0 0.01 0.21
+"7493" "X2: Wolverine's Revenge" "XB" "2003" "Platform" 0.15 0.04 0 0.01 0.21
+"7494" "Power Rangers: Wild Force" "GBA" "2002" "Action" 0.15 0.05 0 0 0.21
+"7504" "Beyblade G-Revolution" "GBA" "2004" "Action" 0.15 0.05 0 0 0.2
+"7514" "Backyard NFL Football 2006" "PS2" "2005" "Sports" 0.1 0.08 0 0.03 0.2
+"7524" "NCAA March Madness 06" "XB" "2005" "Sports" 0.15 0.04 0 0.01 0.2
+"7543" "Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban: 2003 Memorial" "PS2" "2003" "Sports" 0 0 0.2 0 0.2
+"7555" "MLB SlugFest 20-03" "XB" "2002" "Sports" 0.15 0.04 0 0.01 0.2
+"7559" "Pitfall: The Lost Expedition" "PS2" "2004" "Platform" 0.1 0.08 0 0.03 0.2
+"7563" "Rocket Power: Zero Gravity Zone" "GBA" "2003" "Sports" 0.14 0.05 0 0 0.2
+"7567" "ESPN MLB Baseball" "PS2" "2004" "Sports" 0.1 0.08 0 0.03 0.2
+"7575" "The Fairly Odd Parents: Shadow Showdown" "GC" "2004" "Platform" 0.16 0.04 0 0.01 0.2
+"7580" "NBA 2K2" "XB" "2002" "Sports" 0.15 0.04 0 0.01 0.2
+"7581" "X2: Wolverine's Revenge" "GBA" "2003" "Platform" 0.14 0.05 0 0 0.2
+"7589" "Super Dodge Ball Advance" "GBA" "2001" "Sports" 0.14 0.05 0 0 0.2
+"7603" "Ty the Tasmanian Tiger 2: Bush Rescue" "GC" "2004" "Platform" 0.15 0.04 0 0.01 0.2
+"7610" "MVP Baseball 2003" "XB" "2003" "Sports" 0.15 0.04 0 0.01 0.2
+"7613" "NCAA Final Four 2004" "PS2" "2003" "Sports" 0.1 0.08 0 0.03 0.2
+"7614" "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe" "XB" "2005" "Action" 0.15 0.04 0 0.01 0.2
+"7644" "Mat Hoffman's Pro BMX 2" "XB" "2002" "Sports" 0.15 0.04 0 0.01 0.2
+"7647" "From Russia With Love" "XB" "2005" "Action" 0.15 0.04 0 0.01 0.2
+"7660" "Shark Tale" "XB" "2004" "Action" 0.15 0.04 0 0.01 0.2
+"7661" "NFL Street 2" "GC" "2004" "Sports" 0.15 0.04 0 0.01 0.2
+"7663" "Teenage Mutant Ninja Turtles 3: Mutant Nightmare" "PS2" "2005" "Action" 0.1 0.08 0 0.03 0.2
+"7670" "Dave Mirra Freestyle BMX 2" "XB" "2001" "Sports" 0.15 0.04 0 0.01 0.2
+"7674" "SpongeBob SquarePants: Revenge of the Flying Dutchman" "GC" "2002" "Platform" 0.15 0.04 0 0.01 0.2
+"7681" "Harry Potter and the Goblet of Fire" "PSP" "2005" "Action" 0.17 0.01 0 0.02 0.2
+"7688" "Forgotten Realms: Demon Stone" "PS2" "2004" "Action" 0.1 0.08 0 0.03 0.2
+"7696" "Backyard Hockey" "GBA" "2003" "Sports" 0.14 0.05 0 0 0.2
+"7701" "Shaman King: Spirit of Shamans" "PS" "2002" "Action" 0 0 0.18 0.01 0.2
+"7702" "Tiger Woods PGA Tour 06" "PSP" "2005" "Sports" 0.18 0 0 0.01 0.2
+"7705" "The Fairly Odd Parents: Enter the Cleft" "GBA" "2002" "Platform" 0.14 0.05 0 0 0.2
+"7710" "Power Rangers: Time Force" "GBA" "2001" "Action" 0.14 0.05 0 0 0.2
+"7717" "Prince of Persia: Warrior Within" "GC" "2004" "Action" 0.15 0.04 0 0.01 0.2
+"7723" "Predator: Concrete Jungle" "PS2" "2005" "Action" 0.1 0.07 0 0.03 0.2
+"7731" "NHL FaceOff 2001" "PS2" "2001" "Sports" 0.1 0.07 0 0.02 0.2
+"7733" "The Great Escape" "PS2" "2003" "Action" 0.1 0.07 0 0.02 0.2
+"7742" "The Hobbit" "GBA" "2003" "Platform" 0.14 0.05 0 0 0.19
+"7755" "Kouchuu Ouja Mushi King: Greatest Champion e no Michi DS" "DS" "2005" "Action" 0 0 0.19 0 0.19
+"7766" "Dinotopia: The Timestone Pirates" "GBA" "2002" "Action" 0.14 0.05 0 0 0.19
+"7773" "Manhunt" "XB" "2004" "Action" 0.14 0.04 0 0.01 0.19
+"7774" "NCAA Final Four 2003" "PS2" "2002" "Sports" 0.09 0.07 0 0.02 0.19
+"7780" "Peter Jackson's King Kong: The Official Game of the Movie" "PSP" "2005" "Action" 0.16 0.01 0 0.02 0.19
+"7812" "Legacy of Kain: Defiance" "XB" "2003" "Action" 0.14 0.04 0 0.01 0.19
+"7823" "Dave Mirra Freestyle BMX 2" "GBA" "2001" "Sports" 0.14 0.05 0 0 0.19
+"7826" "NHL Hitz Pro" "PS2" "2003" "Sports" 0.09 0.07 0 0.02 0.19
+"7844" "Death Jr." "PSP" "2005" "Platform" 0.17 0 0 0.01 0.19
+"7848" "2002 FIFA World Cup" "XB" "2002" "Sports" 0.14 0.04 0 0.01 0.19
+"7872" "Teenage Mutant Ninja Turtles 2: Battle Nexus" "GC" "2004" "Action" 0.15 0.04 0 0.01 0.19
+"7876" "SSX Tricky" "GBA" "2002" "Sports" 0.14 0.05 0 0 0.19
+"7892" "Hulk" "GC" "2003" "Action" 0.15 0.04 0 0.01 0.19
+"7899" "Transworld Surf" "PS2" "2002" "Sports" 0.09 0.07 0 0.02 0.19
+"7901" "Tenchu: Fatal Shadows" "PS2" "2004" "Action" 0.09 0.07 0 0.02 0.19
+"7913" "Harry Potter and the Prisoner of Azkaban" "XB" "2004" "Action" 0.14 0.04 0 0.01 0.19
+"7929" "Rise of the Kasai" "PS2" "2005" "Action" 0.09 0.07 0 0.02 0.19
+"7944" "Crash & Spyro Superpack" "GBA" "2005" "Platform" 0.13 0.05 0 0 0.19
+"7957" "The Scorpion King: Sword of Osiris" "GBA" "2002" "Action" 0.13 0.05 0 0 0.19
+"7965" "Jackie Chan Adventures: Legend of the Dark Hand" "GBA" "2001" "Action" 0.13 0.05 0 0 0.19
+"7968" "Ty the Tasmanian Tiger 3: Night of the Quinkan" "PS2" "2005" "Action" 0.09 0.07 0 0.02 0.19
+"7972" "Blood Omen 2" "XB" "2002" "Action" 0.14 0.04 0 0.01 0.19
+"7975" "Harry Potter: Quidditch World Cup" "XB" "2003" "Sports" 0.14 0.04 0 0.01 0.19
+"7985" "Samurai Warriors: State of War" "PSP" "2005" "Action" 0.07 0 0.11 0.01 0.19
+"8005" "Sports Illustrated for Kids: Football" "GBA" "2003" "Sports" 0.13 0.05 0 0 0.18
+"8011" "Indiana Jones and the Emperor's Tomb" "XB" "2003" "Action" 0.14 0.04 0 0.01 0.18
+"8013" "Buffy the Vampire Slayer: Chaos Bleeds" "PS2" "2003" "Action" 0.09 0.07 0 0.02 0.18
+"8019" "Ty the Tasmanian Tiger" "XB" "2002" "Platform" 0.14 0.04 0 0.01 0.18
+"8023" "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe" "DS" "2005" "Action" 0.15 0.02 0 0.01 0.18
+"8047" "Fear Effect 2: Retro Helix" "PS" "2001" "Action" 0.1 0.07 0 0.01 0.18
+"8066" "Shrek SuperSlam" "DS" "2005" "Action" 0.17 0 0 0.01 0.18
+"8097" "Cabela's Big Game Hunter 2005 Adventures" "XB" "2004" "Sports" 0.13 0.04 0 0.01 0.18
+"8103" "Gauntlet: Dark Legacy" "GC" "2002" "Action" 0.14 0.04 0 0 0.18
+"8106" "Shadow The Hedgehog" "XB" "2005" "Platform" 0.13 0.04 0 0.01 0.18
+"8129" "Tiger Woods PGA Tour 2004" "GBA" "2003" "Sports" 0.13 0.05 0 0 0.18
+"8136" "Silent Hill 4: The Room" "XB" "2004" "Action" 0.14 0.04 0 0.01 0.18
+"8143" "FIFA Soccer 2002" "GC" "2001" "Sports" 0.14 0.04 0 0 0.18
+"8148" "Fireblade" "PS2" "2002" "Action" 0.09 0.07 0 0.02 0.18
+"8150" "Disney's Tarzan Untamed" "GC" "2001" "Platform" 0.14 0.04 0 0 0.18
+"8156" "Mobile Suit Gundam Seed Destiny: Generation of C.E." "PS2" "2005" "Action" 0 0 0.18 0 0.18
+"8165" "K-1 World Grand Prix" "PS2" "2002" "Sports" 0.04 0.03 0.1 0.01 0.18
+"8171" "Looney Tunes: Back in Action" "GBA" "2003" "Platform" 0.13 0.05 0 0 0.18
+"8172" "Virtua Tennis" "GBA" "2002" "Sports" 0.13 0.05 0 0 0.18
+"8180" "NBA Hoopz" "PS2" "2001" "Sports" 0.09 0.07 0 0.02 0.18
+"8183" "Pac-Man World 3" "DS" "2005" "Platform" 0.16 0 0 0.01 0.18
+"8184" "ESPN X Games Skateboarding" "GBA" "2001" "Sports" 0.13 0.05 0 0 0.18
+"8193" "Backyard Basketball" "GBA" "2004" "Sports" 0.13 0.05 0 0 0.18
+"8195" "Scooby-Doo! Unmasked" "GBA" "2005" "Platform" 0.13 0.05 0 0 0.18
+"8198" "NHL 2004" "XB" "2003" "Sports" 0.13 0.04 0 0.01 0.18
+"8202" "NFL 2K2" "XB" "2002" "Sports" 0.13 0.04 0 0.01 0.18
+"8208" "The Suffering: Ties That Bind" "PS2" "2005" "Action" 0.09 0.07 0 0.02 0.17
+"8211" "EyeToy: Kinetic" "PS2" "2005" "Sports" 0.09 0.07 0 0.02 0.17
+"8223" "SEGA Bass Fishing Duel" "PS2" "2002" "Sports" 0.09 0.07 0 0.02 0.17
+"8226" "Sports Illustrated for Kids: Baseball" "GBA" "2001" "Sports" 0.12 0.05 0 0 0.17
+"8228" "Mark Davis Pro Bass Challenge" "PS2" "2002" "Sports" 0.09 0.07 0 0.02 0.17
+"8229" "Rugrats: Royal Ransom" "GC" "2002" "Platform" 0.13 0.03 0 0 0.17
+"8244" "Smash Court Tennis Pro Tournament" "PS2" "2002" "Sports" 0.08 0.07 0 0.02 0.17
+"8248" "NBA Inside Drive 2004" "XB" "2003" "Sports" 0.13 0.04 0 0.01 0.17
+"8256" "Gretzky NHL 2005" "PS2" "2004" "Sports" 0.08 0.07 0 0.02 0.17
+"8261" "The Hobbit" "GC" "2003" "Platform" 0.13 0.03 0 0 0.17
+"8265" "True Crime: New York City" "GC" "2005" "Action" 0.13 0.03 0 0 0.17
+"8270" "ESPN Final Round Golf 2002" "GBA" "2001" "Sports" 0.12 0.05 0 0 0.17
+"8276" "Disney's Atlantis: The Lost Empire" "PS" "2001" "Platform" 0.1 0.07 0 0.01 0.17
+"8303" "RoadKill" "PS2" "2003" "Action" 0.08 0.07 0 0.02 0.17
+"8308" "Looney Tunes: Back in Action" "GC" "2003" "Platform" 0.13 0.03 0 0 0.17
+"8309" "Tak: The Great Juju Challenge" "GBA" "2005" "Platform" 0.12 0.05 0 0 0.17
+"8315" "Hunter: The Reckoning Redeemer" "XB" "2003" "Action" 0.13 0.04 0 0.01 0.17
+"8324" "Thief: Deadly Shadows" "XB" "2004" "Action" 0.13 0.04 0 0.01 0.17
+"8328" "Batman Begins" "GBA" "2005" "Action" 0.12 0.05 0 0 0.17
+"8341" "Spawn: Armageddon" "XB" "2003" "Action" 0.13 0.04 0 0.01 0.17
+"8350" "Disney's Home on the Range" "GBA" "2004" "Action" 0.12 0.04 0 0 0.17
+"8361" "Gallop Racer 2001" "PS2" "2001" "Sports" 0.05 0.04 0.06 0.01 0.17
+"8365" "Catwoman" "PS2" "2004" "Action" 0.08 0.06 0 0.02 0.17
+"8375" "Beat Down: Fists of Vengeance" "PS2" "2005" "Action" 0.04 0.03 0.09 0.01 0.17
+"8379" "SSX On Tour" "GC" "2005" "Sports" 0.13 0.03 0 0 0.17
+"8384" "Shrek Extra Large" "GC" "2002" "Platform" 0.13 0.03 0 0 0.17
+"8386" "World Tour Soccer 2006" "PS2" "2004" "Sports" 0.08 0.06 0 0.02 0.17
+"8391" "State of Emergency" "XB" "2003" "Action" 0.13 0.04 0 0.01 0.17
+"8395" "Disney Golf" "PS2" "2002" "Sports" 0.07 0.06 0.02 0.02 0.17
+"8402" "Mega Man Network Transmission" "GC" "2003" "Platform" 0.13 0.03 0 0 0.17
+"8414" "Gauntlet: Dark Legacy" "XB" "2002" "Action" 0.13 0.04 0 0.01 0.17
+"8442" "Spyro: Shadow Legacy" "DS" "2005" "Action" 0.14 0.01 0 0.01 0.17
+"8464" "Taz Wanted" "PS2" "2002" "Platform" 0.08 0.06 0 0.02 0.16
+"8478" "World Tour Soccer 2005" "PS2" "2004" "Sports" 0.08 0.06 0 0.02 0.16
+"8487" "ESPN College Hoops" "PS2" "2003" "Sports" 0.08 0.06 0 0.02 0.16
+"8495" "True Swing Golf" "DS" "2005" "Sports" 0.11 0 0.04 0.01 0.16
+"8496" "Zapper: One Wicked Cricket!" "PS2" "2002" "Platform" 0.08 0.06 0 0.02 0.16
+"8512" "Tom and Jerry: Infurnal Escape" "GBA" "2003" "Action" 0.12 0.04 0 0 0.16
+"8517" "Let's Ride: Sunshine Stables" "GBA" "2005" "Sports" 0.12 0.04 0 0 0.16
+"8539" "Dr. Muto" "PS2" "2002" "Platform" 0.08 0.06 0 0.02 0.16
+"8544" "Fatal Frame II: Crimson Butterfly" "PS2" "2003" "Action" 0.08 0.06 0 0.02 0.16
+"8550" "Dynasty Warriors 4" "XB" "2003" "Action" 0.12 0.03 0 0.01 0.16
+"8551" "Wakeboarding Unleashed Featuring Shaun Murray" "PS2" "2003" "Sports" 0.08 0.06 0 0.02 0.16
+"8552" "The Incredibles: Rise of the Underminer" "GC" "2005" "Action" 0.12 0.03 0 0 0.16
+"8569" "Robots" "GC" "2005" "Action" 0.12 0.03 0 0 0.16
+"8580" "The Wild Thornberrys: Chimp Chase" "GBA" "2001" "Action" 0.11 0.04 0 0 0.16
+"8584" "The Powerpuff Girls: Chemical X-Traction" "N64" "2001" "Action" 0.13 0.03 0 0 0.16
+"8585" "Jikkyou Powerful Pro Yakyuu Basic-han 2001" "N64" "2001" "Sports" 0 0 0.12 0.04 0.16
+"8604" "Rapala Pro Fishing" "XB" "2004" "Sports" 0.12 0.03 0 0.01 0.16
+"8622" "Amped 3" "X360" "2005" "Sports" 0.13 0.02 0 0.01 0.16
+"8656" "Power Rangers Double Pack" "GBA" "2005" "Action" 0.11 0.04 0 0 0.16
+"8670" "Tiger Woods PGA Tour 2004" "GC" "2003" "Sports" 0.12 0.03 0 0 0.16
+"8687" "NBA 2K3" "GC" "2002" "Sports" 0.12 0.03 0 0 0.16
+"8689" "NHL 2005" "XB" "2004" "Sports" 0.12 0.03 0 0.01 0.16
+"8706" "Ultimate Spider-Man" "DS" "2005" "Action" 0.14 0 0 0.01 0.16
+"8709" "He-Man: Power of Grayskull" "GBA" "2002" "Action" 0.11 0.04 0 0 0.16
+"8716" "Mat Hoffman's Pro BMX 2" "GBA" "2002" "Sports" 0.11 0.04 0 0 0.16
+"8724" "FIFA 06: Road to FIFA World Cup" "X360" "2005" "Sports" 0.11 0.02 0.01 0.01 0.15
+"8742" "Blinx 2: Masters of Time & Space" "XB" "2004" "Platform" 0.12 0.03 0 0.01 0.15
+"8746" "Tak: The Great Juju Challenge" "GC" "2005" "Platform" 0.12 0.03 0 0 0.15
+"8749" "Knockout Kings 2003" "GC" "2002" "Sports" 0.12 0.03 0 0 0.15
+"8750" "NCAA Football 2004" "GC" "2003" "Sports" 0.12 0.03 0 0 0.15
+"8770" "The Terminator: Dawn of Fate" "XB" "2002" "Action" 0.11 0.03 0 0.01 0.15
+"8773" "Scooby-Doo! Unmasked" "GC" "2005" "Platform" 0.12 0.03 0 0 0.15
+"8792" "Frogger's Adventures: The Rescue" "GC" "2003" "Platform" 0.12 0.03 0 0 0.15
+"8793" "The Incredibles: Rise of the Underminer" "DS" "2005" "Action" 0.13 0.01 0 0.01 0.15
+"8813" "Prince of Persia: The Sands of Time" "GBA" "2003" "Action" 0.11 0.04 0 0 0.15
+"8815" "Zoids: Battle Legends" "GC" "2003" "Action" 0.12 0.03 0 0 0.15
+"8816" "World Series Baseball 2K3" "XB" "2003" "Sports" 0.11 0.03 0 0.01 0.15
+"8819" "Killer7" "GC" "2005" "Action" 0.12 0.03 0 0 0.15
+"8827" "FIFA Soccer 2002" "PS" "2001" "Sports" 0.08 0.06 0 0.01 0.15
+"8836" "NBA ShootOut 2001" "PS2" "2001" "Sports" 0.07 0.06 0 0.02 0.15
+"8858" "Spongebob Squarepants / Fairly Odd Parents Double Pack" "GBA" "2005" "Action" 0.11 0.04 0 0 0.15
+"8862" "Derby Stallion 64" "N64" "2001" "Sports" 0 0 0.15 0 0.15
+"8867" "All-Star Baseball 2003" "GC" "2002" "Sports" 0.12 0.03 0 0 0.15
+"8889" "All-Star Baseball 2003" "GBA" "2002" "Sports" 0.11 0.04 0 0 0.15
+"8890" "Scooby-Doo! Mystery Mayhem" "XB" "2004" "Action" 0.11 0.03 0 0.01 0.15
+"8921" "The Incredible Hulk: Ultimate Destruction" "GC" "2005" "Action" 0.11 0.03 0 0 0.15
+"8922" "Prince of Persia: The Two Thrones" "GC" "2005" "Action" 0.11 0.03 0 0 0.15
+"8925" "Pac-Man World 3" "XB" "2005" "Platform" 0.11 0.04 0 0.01 0.15
+"8936" "Batman Begins" "GC" "2005" "Action" 0.11 0.03 0 0 0.15
+"8943" "Crash: Twinsanity" "XB" "2004" "Platform" 0.11 0.03 0 0.01 0.15
+"8945" "Yu-Gi-Oh! Nightmare Troubadour (US sales)" "DS" "2005" "Action" 0.15 0 0 0 0.15
+"8951" "Power Pro Kun Pocket 1+2" "GBA" "2004" "Sports" 0 0 0.14 0 0.15
+"8978" "BMX XXX" "PS2" "2002" "Sports" 0.07 0.06 0 0.02 0.15
+"8980" "Tiger Woods PGA Tour" "DS" "2004" "Sports" 0.13 0 0 0.01 0.15
+"8991" "Elf: The Movie" "GBA" "2004" "Action" 0.1 0.04 0 0 0.15
+"8993" "MLB SlugFest 20-03" "GC" "2002" "Sports" 0.11 0.03 0 0 0.15
+"8995" "Grabbed by the Ghoulies" "XB" "2003" "Action" 0.11 0.03 0 0.01 0.14
+"9003" "Tennis no Oji-Sama: Aim at The Victory!" "GBA" "2002" "Sports" 0 0 0.14 0 0.14
+"9016" "Rayman 3" "GBA" "2003" "Platform" 0.1 0.04 0 0 0.14
+"9017" "Fatal Frame" "PS2" "2001" "Action" 0.07 0.06 0 0.02 0.14
+"9028" "Casper: Spirit Dimensions" "PS2" "2001" "Platform" 0.07 0.05 0 0.02 0.14
+"9034" "Klonoa: Empire of Dreams" "GBA" "2001" "Platform" 0.1 0.04 0 0 0.14
+"9058" "Kamen Rider Ryuki" "PS" "2002" "Action" 0 0 0.13 0.01 0.14
+"9061" "FIFA Soccer 2005" "GC" "2004" "Sports" 0.11 0.03 0 0 0.14
+"9069" "Jonny Moseley Mad Trix" "PS2" "2001" "Sports" 0.07 0.05 0 0.02 0.14
+"9076" "Terminator 3: Rise of the Machines" "XB" "2003" "Action" 0.11 0.03 0 0.01 0.14
+"9078" "SSX On Tour" "XB" "2005" "Sports" 0.11 0.03 0 0.01 0.14
+"9079" "NCAA College Basketball 2K3" "XB" "2002" "Sports" 0.11 0.03 0 0.01 0.14
+"9089" "Mary-Kate and Ashley: Winners Circle" "PS" "2001" "Action" 0.08 0.05 0 0.01 0.14
+"9100" "Gretzky NHL 06" "PSP" "2005" "Sports" 0.13 0 0 0.01 0.14
+"9103" "NFL Blitz 20-03" "XB" "2002" "Sports" 0.11 0.03 0 0.01 0.14
+"9106" "Fur Fighters: Viggo's Revenge" "PS2" "2001" "Action" 0.07 0.05 0 0.02 0.14
+"9111" "Zapper: One Wicked Cricket!" "GBA" "2002" "Platform" 0.1 0.04 0 0 0.14
+"9116" "Scooby-Doo! Night of 100 Frights" "XB" "2003" "Platform" 0.11 0.03 0 0.01 0.14
+"9121" "Sphinx and the Cursed Mummy" "GC" "2003" "Action" 0.11 0.03 0 0 0.14
+"9129" "World Tour Soccer 2003" "PS2" "2002" "Sports" 0.07 0.05 0 0.02 0.14
+"9135" "Spyro: A Hero's Tail" "XB" "2004" "Platform" 0.11 0.03 0 0.01 0.14
+"9141" "Gretzky NHL 06" "PS2" "2005" "Sports" 0.07 0.05 0 0.02 0.14
+"9147" "NBA ShootOut 2002" "PS" "2001" "Sports" 0.08 0.05 0 0.01 0.14
+"9174" "Robots" "DS" "2005" "Action" 0.12 0.01 0 0.01 0.14
+"9175" "Gyakuten Saiban 2" "GBA" "2002" "Action" 0 0 0.14 0 0.14
+"9181" "Jim Henson's the Muppets: On With the Show!" "GBA" "2003" "Action" 0.1 0.04 0 0 0.14
+"9187" "Tim Burton's The Nightmare Before Christmas: The Pumpkin King" "GBA" "2005" "Platform" 0.1 0.04 0 0 0.14
+"9188" "Power Pro Kun Pocket 8" "DS" "2005" "Sports" 0 0 0.14 0 0.14
+"9193" "Dino Crisis 3" "XB" "2003" "Action" 0.08 0.03 0.03 0 0.14
+"9196" "NFL Blitz 20-03" "GC" "2002" "Sports" 0.11 0.03 0 0 0.14
+"9203" "Barbie Explorer" "PS" "2001" "Platform" 0.08 0.05 0 0.01 0.14
+"9205" "Disney's Chicken Little" "XB" "2005" "Platform" 0.1 0.03 0 0 0.14
+"9218" "Star Wars: Jedi Power Battles" "GBA" "2002" "Action" 0.1 0.04 0 0 0.14
+"9229" "Yu-Gi-Oh! Nightmare Troubadour (JP sales)" "DS" "2005" "Action" 0 0.04 0.1 0 0.14
+"9234" "FIFA 06 Soccer" "GC" "2005" "Sports" 0.11 0.03 0 0 0.14
+"9267" "Fear Factor: Unleashed" "GBA" "2004" "Action" 0.1 0.04 0 0 0.14
+"9287" "UEFA Euro 2004: Portugal" "PS2" "2004" "Sports" 0.07 0.05 0 0.02 0.14
+"9292" "NBA Jam" "XB" "2003" "Sports" 0.1 0.03 0 0 0.14
+"9294" "World Tour Soccer 2002" "PS2" "2001" "Sports" 0.07 0.05 0 0.02 0.14
+"9300" "Tomb Raider: The Prophecy" "GBA" "2002" "Action" 0.1 0.04 0 0 0.14
+"9309" "Mary-Kate and Ashley: Crush Course" "PS" "2001" "Action" 0.08 0.05 0 0.01 0.14
+"9316" "Tiger Woods PGA Tour 2005" "GC" "2004" "Sports" 0.1 0.03 0 0 0.14
+"9320" "Salt Lake 2002" "PS2" "2002" "Sports" 0.07 0.05 0 0.02 0.14
+"9321" "ESPN MLB Baseball" "XB" "2004" "Sports" 0.1 0.03 0 0 0.14
+"9334" "Backyard Soccer" "PS" "2001" "Sports" 0.07 0.05 0 0.01 0.13
+"9340" "Castlevania Chronicles" "PS" "2001" "Platform" 0.07 0.05 0 0.01 0.13
+"9345" "Bratz" "GBA" "2002" "Platform" 0.1 0.04 0 0 0.13
+"9347" "King Arthur" "PS2" "2004" "Action" 0.07 0.05 0 0.02 0.13
+"9352" "Blade II" "XB" "2002" "Action" 0.1 0.03 0 0 0.13
+"9354" "Baseball Advance" "GBA" "2002" "Sports" 0.1 0.04 0 0 0.13
+"9368" "Tak 2: The Staff of Dreams" "XB" "2004" "Platform" 0.1 0.03 0 0 0.13
+"9375" "Peter Jackson's King Kong: The Official Game of the Movie" "DS" "2005" "Action" 0.12 0 0 0.01 0.13
+"9389" "Disney's Kim Possible: Kimmunicator" "DS" "2005" "Platform" 0.11 0.01 0 0.01 0.13
+"9391" "Rogue Ops" "XB" "2003" "Action" 0.1 0.03 0 0 0.13
+"9392" "NBA Hoopz" "PS" "2001" "Sports" 0.07 0.05 0 0.01 0.13
+"9398" "Army Men: Green Rogue" "PS2" "2001" "Action" 0.06 0.05 0 0.02 0.13
+"9403" "Superman: The Man of Steel" "XB" "2002" "Action" 0.1 0.03 0 0 0.13
+"9408" "NHL 2003" "GC" "2002" "Sports" 0.1 0.03 0 0 0.13
+"9423" "Winning Post 5" "PS2" "2001" "Sports" 0 0 0.13 0 0.13
+"9427" "Frogger Beyond" "GC" "2002" "Platform" 0.1 0.03 0 0 0.13
+"9436" "Disney's Winnie the Pooh's Rumbly Tumbly Adventure" "GBA" "2005" "Platform" 0.09 0.03 0 0 0.13
+"9456" "Mission: Impossible - Operation Surma" "XB" "2003" "Platform" 0.1 0.03 0 0 0.13
+"9465" "Mega Man Anniversary Collection" "XB" "2005" "Platform" 0.1 0.03 0 0 0.13
+"9499" "NightCaster" "XB" "2002" "Action" 0.1 0.03 0 0 0.13
+"9502" "Hitman 2: Silent Assassin" "GC" "2003" "Action" 0.1 0.03 0 0 0.13
+"9506" "Ape Escape 3" "PS2" "2005" "Platform" 0.06 0.05 0 0.02 0.13
+"9508" "Crouching Tiger, Hidden Dragon" "PS2" "2003" "Action" 0.06 0.05 0 0.02 0.13
+"9525" "Otogi: Myth of Demons" "XB" "2002" "Action" 0.08 0.02 0.03 0 0.13
+"9549" "Ty the Tasmanian Tiger 2: Bush Rescue" "GBA" "2004" "Platform" 0.09 0.03 0 0 0.13
+"9551" "Teenage Mutant Ninja Turtles 2: Battle Nexus" "XB" "2004" "Action" 0.1 0.03 0 0 0.13
+"9553" "Backyard Baseball" "GC" "2003" "Sports" 0.1 0.03 0 0 0.13
+"9563" "All-Star Baseball 2004" "XB" "2003" "Sports" 0.1 0.03 0 0 0.13
+"9567" "Portal Runner" "PS2" "2001" "Platform" 0.06 0.05 0 0.02 0.13
+"9572" "Disney's Winnie the Pooh's Rumbly Tumbly Adventure" "PS2" "2005" "Platform" 0.06 0.05 0 0.02 0.13
+"9576" "Spartan: Total Warrior" "XB" "2005" "Action" 0.1 0.03 0 0 0.13
+"9580" "Zapper: One Wicked Cricket!" "GC" "2002" "Platform" 0.1 0.03 0 0 0.13
+"9585" "Advent Rising" "XB" "2005" "Action" 0.1 0.03 0 0 0.13
+"9589" "Derby Stallion Advance" "GBA" "2002" "Sports" 0 0 0.12 0 0.13
+"9610" "Kelly Slater's Pro Surfer" "GBA" "2002" "Sports" 0.09 0.03 0 0 0.13
+"9645" "Smash Court Tennis Pro Tournament 2" "PS2" "2004" "Sports" 0.06 0.05 0 0.02 0.13
+"9655" "World Soccer Winning Eleven 2002" "PS" "2002" "Sports" 0 0 0.12 0.01 0.13
+"9666" "Disney's Atlantis: The Lost Empire" "GBA" "2001" "Platform" 0.09 0.03 0 0 0.12
+"9691" "Galidor: Defenders of the Outer Dimension" "GBA" "2002" "Action" 0.09 0.03 0 0 0.12
+"9706" "NHL 2002" "GBA" "2002" "Sports" 0.09 0.03 0 0 0.12
+"9707" "Disney's PK: Out of the Shadows" "PS2" "2002" "Platform" 0.06 0.05 0 0.02 0.12
+"9729" "Lemony Snicket's A Series of Unfortunate Events" "XB" "2004" "Platform" 0.09 0.03 0 0 0.12
+"9740" "Madden NFL 06" "DS" "2005" "Sports" 0.11 0 0 0.01 0.12
+"9759" "Voodoo Vince" "XB" "2003" "Platform" 0.09 0.03 0 0 0.12
+"9789" "SSX 3" "GBA" "2003" "Sports" 0.09 0.03 0 0 0.12
+"9799" "Looney Tunes: Sheep Raider" "PS" "2001" "Platform" 0.07 0.05 0 0.01 0.12
+"9805" "X2: Wolverine's Revenge" "GC" "2003" "Platform" 0.09 0.02 0 0 0.12
+"9825" "Sega Soccer Slam" "PS2" "2002" "Sports" 0.06 0.05 0 0.02 0.12
+"9852" "Gladiator: Sword of Vengeance" "PS2" "2003" "Action" 0.06 0.05 0 0.02 0.12
+"9857" "Jikkyou Powerful Pro Yakyuu 8 Ketteiban" "PS2" "2001" "Sports" 0 0 0.12 0 0.12
+"9873" "Ed, Edd n Eddy: The Mis-Edventures" "GBA" "2005" "Platform" 0.08 0.03 0 0 0.12
+"9876" "Disney's Extreme Skate Adventure" "GC" "2003" "Sports" 0.09 0.02 0 0 0.12
+"9878" "NBA 2K2" "GC" "2002" "Sports" 0.09 0.02 0 0 0.12
+"9882" "Psychonauts" "XB" "2005" "Platform" 0.09 0.03 0 0 0.12
+"9889" "MLB Inside Pitch 2003" "XB" "2003" "Sports" 0.09 0.03 0 0 0.12
+"9908" "Jikkyou Powerful Pro Yakyuu 9" "GC" "2002" "Sports" 0 0 0.11 0 0.12
+"9931" "Castlevania: Curse of Darkness" "XB" "2005" "Action" 0.09 0.03 0 0 0.12
+"9939" "Nightshade" "PS2" "2003" "Action" 0.06 0.04 0 0.01 0.12
+"9946" "Buffy the Vampire Slayer: Chaos Bleeds" "XB" "2003" "Action" 0.09 0.03 0 0 0.12
+"9950" "Teenage Mutant Ninja Turtles 3: Mutant Nightmare" "GC" "2005" "Action" 0.09 0.02 0 0 0.12
+"9987" "NHL 2K3" "XB" "2002" "Sports" 0.09 0.02 0 0 0.12
+"9993" "FIFA Soccer" "PSP" "2005" "Sports" 0.11 0 0 0.01 0.12
+"9995" "Sphinx and the Cursed Mummy" "XB" "2003" "Action" 0.09 0.02 0 0 0.12
+"10003" "Cabela's Deer Hunt 2005 Season" "XB" "2004" "Sports" 0.09 0.02 0 0 0.11
+"10014" "Pac 'n Roll" "DS" "2005" "Platform" 0.09 0 0.02 0.01 0.11
+"10017" "Jikkyou Powerful Pro Yakyuu 12 Ketteiban" "PS2" "2005" "Sports" 0 0 0.11 0 0.11
+"10020" "ToeJam & Earl III: Mission to Earth" "XB" "2002" "Action" 0.09 0.02 0 0 0.11
+"10023" "LEGO Knights' Kingdom" "GBA" "2004" "Action" 0.08 0.03 0 0 0.11
+"10027" "NBA Jam 2002" "GBA" "2002" "Sports" 0.08 0.03 0 0 0.11
+"10047" "FIFA Soccer 06" "PSP" "2005" "Sports" 0.1 0.01 0 0.01 0.11
+"10050" "World Championship Rugby" "PS2" "2004" "Sports" 0.06 0.04 0 0.01 0.11
+"10051" "Phantom Dust" "XB" "2004" "Action" 0.08 0.02 0 0 0.11
+"10070" "Stubbs the Zombie in Rebel Without a Pulse" "XB" "2005" "Action" 0.08 0.02 0 0 0.11
+"10071" "Batman: Dark Tomorrow" "XB" "2003" "Action" 0.08 0.02 0 0 0.11
+"10085" "Batman: Rise of Sin Tzu" "XB" "2003" "Action" 0.08 0.02 0 0 0.11
+"10091" "Spy vs Spy" "XB" "2005" "Action" 0.08 0.02 0 0 0.11
+"10098" "Cold Fear" "PS2" "2005" "Action" 0.06 0.04 0 0.01 0.11
+"10110" "NHL Hitz 20-03" "XB" "2002" "Sports" 0.08 0.02 0 0 0.11
+"10129" "J-League Winning Eleven 9: Asia Championship" "PS2" "2005" "Sports" 0 0 0.11 0 0.11
+"10130" "Sabrina The Teenage Witch: Potion Commotion" "GBA" "2002" "Action" 0.08 0.03 0 0 0.11
+"10134" "Home Run King" "GC" "2002" "Sports" 0.09 0.02 0 0 0.11
+"10148" "Disney's Peter Pan: Return to Never Land" "GBA" "2002" "Platform" 0.08 0.03 0 0 0.11
+"10149" "The Fairly Odd Parents: Breakin Da Rules" "XB" "2003" "Platform" 0.08 0.02 0 0 0.11
+"10172" "ESPN NHL Hockey" "XB" "2003" "Sports" 0.08 0.02 0 0 0.11
+"10174" "XXX" "GBA" "2002" "Action" 0.08 0.03 0 0 0.11
+"10186" "Project: Snowblind" "XB" "2005" "Action" 0.08 0.02 0 0 0.11
+"10190" "Disney's Extreme Skate Adventure" "XB" "2003" "Sports" 0.08 0.02 0 0 0.11
+"10193" "The Adventures of Jimmy Neutron Boy Genius: Jet Fusion" "GC" "2003" "Action" 0.09 0.02 0 0 0.11
+"10194" "Pac-Man World 2" "GBA" "2005" "Action" 0.08 0.03 0 0 0.11
+"10238" "Top Angler: Real Bass Fishing" "PS2" "2002" "Sports" 0.05 0.04 0 0.01 0.11
+"10242" "Frogger: Helmet Chaos" "PSP" "2005" "Platform" 0.1 0 0 0.01 0.11
+"10245" "Alias" "PS2" "2004" "Action" 0.05 0.04 0 0.01 0.11
+"10254" "Outlaw Golf: Nine Holes of Christmas" "XB" "2002" "Sports" 0.08 0.02 0 0 0.11
+"10255" "NHL Rivals 2004" "XB" "2003" "Sports" 0.08 0.02 0 0 0.11
+"10270" "The Scorpion King: Rise of the Akkadian" "GC" "2002" "Action" 0.08 0.02 0 0 0.11
+"10278" "Constantine" "PS2" "2005" "Action" 0.05 0.04 0 0.01 0.11
+"10281" "Real World Golf" "PS2" "2005" "Sports" 0.05 0.04 0 0.01 0.11
+"10283" "Ty the Tasmanian Tiger 2: Bush Rescue" "XB" "2004" "Platform" 0.08 0.02 0 0 0.11
+"10289" "BMX XXX" "XB" "2002" "Sports" 0.08 0.02 0 0 0.11
+"10294" "Lady Sia" "GBA" "2001" "Platform" 0.08 0.03 0 0 0.11
+"10338" "Rengoku: The Tower of Purgatory" "PSP" "2005" "Action" 0.1 0 0 0.01 0.11
+"10341" "Dynasty Warriors Advance" "GBA" "2005" "Action" 0.08 0.03 0 0 0.11
+"10347" "Viewtiful Joe: Double Trouble!" "DS" "2005" "Action" 0.08 0 0.01 0.01 0.11
+"10349" "Mega Man Zero 4" "GBA" "2005" "Platform" 0.08 0.03 0 0 0.11
+"10354" "Tiger Woods PGA Tour 06" "GC" "2005" "Sports" 0.08 0.02 0 0 0.11
+"10412" "Cabela's Dangerous Hunts 2" "XB" "2005" "Sports" 0.08 0.02 0 0 0.11
+"10422" "Power Pocket Koushien" "DS" "2005" "Sports" 0 0 0.1 0 0.1
+"10423" "Gravity Games Bike: Street Vert Dirt" "PS2" "2002" "Sports" 0.05 0.04 0 0.01 0.1
+"10430" "Top Spin" "PS2" "2005" "Sports" 0.05 0.04 0 0.01 0.1
+"10439" "Jikkyou Powerful Pro Yakyuu 10" "GC" "2003" "Sports" 0 0 0.1 0 0.1
+"10440" "Vexx" "XB" "2003" "Platform" 0.08 0.02 0 0 0.1
+"10443" "Pariah" "XB" "2005" "Action" 0.08 0.02 0 0 0.1
+"10444" "Cabela's Outdoor Adventures" "XB" "2005" "Sports" 0.08 0.02 0 0 0.1
+"10454" "Gallop Racer 2006" "PS2" "2005" "Sports" 0.02 0.02 0.06 0.01 0.1
+"10456" "Frogger: Ancient Shadow" "PS2" "2005" "Platform" 0.05 0.04 0 0.01 0.1
+"10464" "Tom Clancy's Splinter Cell: Chaos Theory" "GC" "2005" "Action" 0.08 0.02 0 0 0.1
+"10478" "Gretzky NHL" "PSP" "2005" "Sports" 0.1 0 0 0.01 0.1
+"10492" "Syberia" "XB" "2003" "Action" 0.08 0.02 0 0 0.1
+"10493" "G1 Jockey 3" "PS2" "2002" "Sports" 0.02 0.01 0.07 0 0.1
+"10511" "Death By Degrees" "PS2" "2005" "Action" 0.05 0.04 0 0.01 0.1
+"10527" "FIFA Street" "XB" "2005" "Sports" 0.08 0.02 0 0 0.1
+"10546" "Hunter: The Reckoning" "GC" "2002" "Action" 0.08 0.02 0 0 0.1
+"10558" "Dark Summit" "XB" "2001" "Sports" 0.08 0.02 0 0 0.1
+"10565" "NHL 2004" "GC" "2003" "Sports" 0.08 0.02 0 0 0.1
+"10576" "Minority Report: Everybody Runs" "GC" "2002" "Action" 0.08 0.02 0 0 0.1
+"10586" "Disney's The Haunted Mansion" "GC" "2003" "Platform" 0.08 0.02 0 0 0.1
+"10591" "Beach Spikers: Virtua Beach Volleyball" "GC" "2002" "Sports" 0.08 0.02 0 0 0.1
+"10608" "Van Helsing" "GBA" "2004" "Action" 0.07 0.03 0 0 0.1
+"10616" "Kelly Slater's Pro Surfer" "XB" "2002" "Sports" 0.08 0.02 0 0 0.1
+"10618" "Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E." "PS2" "2005" "Platform" 0.05 0.04 0 0.01 0.1
+"10646" "Disney's The Jungle Book" "GBA" "2002" "Platform" 0.07 0.03 0 0 0.1
+"10650" "Army Men World War: Team Assault" "PS" "2001" "Action" 0.06 0.04 0 0.01 0.1
+"10651" "Tom Clancy's Splinter Cell" "GBA" "2003" "Action" 0.07 0.03 0 0 0.1
+"10653" "NHL 2K6" "X360" "2005" "Sports" 0.09 0 0 0.01 0.1
+"10663" "Evil Dead: Fistfull of Boomstick" "XB" "2003" "Action" 0.07 0.02 0 0 0.1
+"10678" "College Hoops 2K6" "XB" "2005" "Sports" 0.07 0.02 0 0 0.1
+"10694" "Predator: Concrete Jungle" "XB" "2005" "Action" 0.07 0.02 0 0 0.1
+"10708" "Piglet's Big Game" "PS2" "2003" "Platform" 0.05 0.04 0 0.01 0.1
+"10712" "Project FIFA World Cup" "PS2" "2002" "Sports" 0 0 0.1 0 0.1
+"10715" "Rocky: Legends" "XB" "2004" "Action" 0.07 0.02 0 0 0.1
+"10741" "EyeToy: Operation Spy" "PS2" "2005" "Action" 0.05 0.04 0 0.01 0.1
+"10748" "Famicom Mini: Mappy" "GBA" "2004" "Platform" 0 0 0.09 0 0.1
+"10791" "Jikkyou Powerful Pro Yakyuu 11" "GC" "2004" "Sports" 0 0 0.09 0 0.1
+"10813" "Minority Report: Everybody Runs" "XB" "2002" "Action" 0.07 0.02 0 0 0.1
+"10829" "Winning Post 6" "PS2" "2003" "Sports" 0 0 0.09 0 0.09
+"10841" "Pac-Man World 3" "GC" "2005" "Platform" 0.07 0.02 0 0 0.09
+"10848" "NFL Blitz 20-02" "XB" "2002" "Sports" 0.07 0.02 0 0 0.09
+"10850" "Robots" "XB" "2005" "Action" 0.07 0.02 0 0 0.09
+"10869" "Altered Beast: Guardian of the Realms" "GBA" "2002" "Action" 0.07 0.02 0 0 0.09
+"10874" "Scaler" "PS2" "2004" "Platform" 0.05 0.04 0 0.01 0.09
+"10880" "MLB SlugFest 20-04" "XB" "2003" "Sports" 0.07 0.02 0 0 0.09
+"10881" "Barbie and the Magic of Pegasus" "GBA" "2005" "Action" 0.07 0.02 0 0 0.09
+"10886" "Psychonauts" "PS2" "2005" "Platform" 0.05 0.04 0 0.01 0.09
+"10888" "World Stadium 5" "PS" "2001" "Sports" 0 0 0.09 0.01 0.09
+"10900" "Scooby-Doo! Unmasked" "DS" "2005" "Platform" 0.07 0.02 0 0.01 0.09
+"10908" "Ribbit King" "PS2" "2003" "Sports" 0.05 0.04 0 0.01 0.09
+"10916" "Ninja Gaiden Black" "XB" "2005" "Action" 0.07 0.02 0 0 0.09
+"10930" "The Revenge of Shinobi" "GBA" "2002" "Platform" 0.07 0.02 0 0 0.09
+"10936" "Cabela's Big Game Hunter" "GBA" "2002" "Sports" 0.07 0.02 0 0 0.09
+"10938" "I-Ninja" "GC" "2003" "Platform" 0.07 0.02 0 0 0.09
+"10946" "Yourself Fitness" "XB" "2004" "Sports" 0.07 0.02 0 0 0.09
+"10947" "Tak: The Great Juju Challenge" "DS" "2005" "Platform" 0.09 0 0 0.01 0.09
+"10970" "Shrek SuperSlam" "XB" "2005" "Action" 0.07 0.02 0 0 0.09
+"10972" "New Legends" "XB" "2002" "Action" 0.07 0.02 0 0 0.09
+"10975" "Island Xtreme Stunts" "PS2" "2002" "Action" 0.04 0.03 0 0.01 0.09
+"10977" "Agassi Tennis Generation" "PS2" "2003" "Sports" 0.04 0.03 0 0.01 0.09
+"10988" "Disney's The Haunted Mansion" "XB" "2003" "Platform" 0.07 0.02 0 0 0.09
+"11010" "Project Eden" "PS2" "2001" "Action" 0.04 0.03 0 0.01 0.09
+"11017" "Ghosthunter" "PS2" "2003" "Action" 0.04 0.03 0 0.01 0.09
+"11028" "Jikkyou Powerful Pro Yakyuu 9 Ketteiban" "PS2" "2002" "Sports" 0 0 0.09 0 0.09
+"11031" "Astro Boy: Omega Factor" "GBA" "2003" "Action" 0.06 0.02 0 0 0.09
+"11042" "Rugby 2005" "PS2" "2005" "Sports" 0.04 0.03 0 0.01 0.09
+"11056" "2-in-1 Game Pack: Spider-Man & Spider-Man 2" "GBA" "2005" "Platform" 0.06 0.02 0 0 0.09
+"11080" "Mystic Heroes" "GC" "2002" "Action" 0.03 0.01 0.04 0 0.09
+"11085" "Captain Tsubasa: Aratanaru Densetsu Joshou" "PS" "2002" "Sports" 0 0 0.08 0.01 0.09
+"11118" "Transworld Snowboarding" "XB" "2002" "Sports" 0.07 0.02 0 0 0.09
+"11119" "NFL Blitz 20-02" "GC" "2002" "Sports" 0.07 0.02 0 0 0.09
+"11122" "World Soccer Winning Eleven 8 International" "XB" "2004" "Sports" 0.07 0.02 0 0 0.09
+"11124" "Crimson Sea" "XB" "2002" "Action" 0.04 0.01 0.04 0 0.09
+"11135" "The Suffering: Ties That Bind" "XB" "2005" "Action" 0.07 0.02 0 0 0.09
+"11161" "MLB SlugFest Loaded" "XB" "2004" "Sports" 0.07 0.02 0 0 0.09
+"11162" "Ty the Tasmanian Tiger 3: Night of the Quinkan" "GC" "2005" "Action" 0.07 0.02 0 0 0.09
+"11165" "Bionicle" "GBA" "2003" "Action" 0.06 0.02 0 0 0.09
+"11181" "Fire Pro Wrestling Returns" "PS2" "2005" "Sports" 0.04 0.03 0 0.01 0.09
+"11183" "Jimmy Neutron: Boy Genius" "GC" "2002" "Platform" 0.07 0.02 0 0 0.09
+"11195" "Forgotten Realms: Demon Stone" "XB" "2004" "Action" 0.06 0.02 0 0 0.09
+"11212" "Famicom Mini: Makaimura" "GBA" "2004" "Platform" 0 0 0.08 0 0.09
+"11217" "The Incredibles: Rise of the Underminer" "XB" "2005" "Action" 0.06 0.02 0 0 0.09
+"11239" "Killer7" "PS2" "2005" "Action" 0.04 0.03 0 0.01 0.09
+"11246" "Astro Boy" "PS2" "2004" "Action" 0.04 0.03 0 0.01 0.09
+"11283" "Famicom Mini: Mario Bros." "GBA" "2004" "Platform" 0 0 0.08 0 0.08
+"11287" "Rescue Heroes: Billy Blazes" "GBA" "2003" "Action" 0.06 0.02 0 0 0.08
+"11307" "ESPN NFL Primetime 2002" "PS2" "2001" "Sports" 0.04 0.03 0 0.01 0.08
+"11336" "Famicom Mini: Adventure Island" "GBA" "2004" "Action" 0 0 0.08 0 0.08
+"11349" "Hello Kitty: Roller Rescue" "GC" "2005" "Action" 0.06 0.02 0 0 0.08
+"11350" "Jikkyou Powerful Pro Yakyuu 12" "GC" "2005" "Sports" 0 0 0.08 0 0.08
+"11357" "LEGO Soccer Mania" "PS2" "2002" "Sports" 0.04 0.03 0 0.01 0.08
+"11394" "FIFA Soccer 2005" "GBA" "2004" "Sports" 0.06 0.02 0 0 0.08
+"11397" "NHL 06" "GC" "2005" "Sports" 0.06 0.02 0 0 0.08
+"11401" "Pinobee: Wings of Adventure" "GBA" "2001" "Platform" 0.06 0.02 0 0 0.08
+"11409" "Fatal Frame III: The Tormented" "PS2" "2005" "Action" 0.04 0.03 0 0.01 0.08
+"11412" "Seven Samurai 20XX" "PS2" "2004" "Action" 0.04 0.03 0 0.01 0.08
+"11417" "Tom Clancy's Splinter Cell: Pandora Tomorrow" "GC" "2004" "Action" 0.06 0.02 0 0 0.08
+"11420" "Swingerz Golf" "GC" "2002" "Sports" 0.06 0.02 0 0 0.08
+"11430" "FIFA Soccer 2003" "GC" "2002" "Sports" 0.06 0.02 0 0 0.08
+"11436" "Outlaw Golf" "GC" "2002" "Sports" 0.06 0.02 0 0 0.08
+"11481" "Tony Hawk's Pro Skater 3" "N64" "2002" "Sports" 0.06 0.02 0 0 0.08
+"11485" "Samurai Western" "PS2" "2004" "Action" 0.04 0.03 0 0.01 0.08
+"11490" "Harry Potter and the Sorcerer's Stone" "GC" "2003" "Action" 0.06 0.02 0 0 0.08
+"11491" "High Heat Major League Baseball 2004" "XB" "2003" "Sports" 0.06 0.02 0 0 0.08
+"11534" "Superman: Shadow of Apokolips" "GC" "2003" "Action" 0.06 0.02 0 0 0.08
+"11539" "Batman: Dark Tomorrow" "GC" "2003" "Action" 0.06 0.02 0 0 0.08
+"11549" "Fireblade" "XB" "2002" "Action" 0.06 0.02 0 0 0.08
+"11555" "Boxing Fever" "GBA" "2001" "Sports" 0.06 0.02 0 0 0.08
+"11556" "RoadKill" "XB" "2003" "Action" 0.06 0.02 0 0 0.08
+"11562" "Indycar Series 2005" "XB" "2004" "Action" 0.06 0.02 0 0 0.08
+"11566" "Taz Wanted" "GC" "2002" "Platform" 0.06 0.02 0 0 0.08
+"11569" "Skydiving Extreme" "PS" "2001" "Sports" 0.04 0.03 0 0.01 0.08
+"11570" "Evil Dead: Regeneration" "XB" "2005" "Action" 0.06 0.02 0 0 0.08
+"11599" "Outlaw Tennis" "PS2" "2005" "Sports" 0.04 0.03 0 0.01 0.08
+"11607" "LEGO Soccer Mania" "GBA" "2002" "Sports" 0.06 0.02 0 0 0.08
+"11642" "NHL Hitz 20-03" "GC" "2002" "Sports" 0.06 0.02 0 0 0.08
+"11648" "Urban Reign" "PS2" "2005" "Action" 0.04 0.03 0 0.01 0.08
+"11652" "Resident Evil 3: Nemesis" "GC" "2003" "Action" 0.06 0.02 0 0 0.08
+"11653" "All-Star Baseball 2004" "GC" "2003" "Sports" 0.06 0.02 0 0 0.08
+"11656" "Frogger Beyond" "XB" "2002" "Platform" 0.06 0.02 0 0 0.08
+"11659" "Stuart Little 3: Big Photo Adventure" "PS2" "2005" "Platform" 0.04 0.03 0 0.01 0.08
+"11664" "Pitfall: The Lost Expedition" "GC" "2004" "Platform" 0.06 0.02 0 0 0.08
+"11673" "Pac-Man World 3" "PSP" "2005" "Platform" 0.07 0 0 0.01 0.08
+"11708" "The Hustle: Detroit Streets" "PSP" "2005" "Sports" 0.07 0 0 0.01 0.08
+"11709" "Codename: Kids Next Door: Operation S.O.D.A." "GBA" "2004" "Platform" 0.05 0.02 0 0 0.08
+"11722" "Scooby-Doo! Unmasked" "XB" "2005" "Platform" 0.06 0.02 0 0 0.08
+"11726" "Dynasty Warriors 3" "XB" "2002" "Action" 0.06 0.02 0 0 0.08
+"11757" "Futurama" "PS2" "2003" "Platform" 0.04 0.03 0 0.01 0.07
+"11760" "Famicom Mini: Hikari Shinwa: Palutena no Kagami" "GBA" "2004" "Platform" 0 0 0.07 0 0.07
+"11761" "Rayman 3: Hoodlum Havoc" "XB" "2003" "Platform" 0.06 0.02 0 0 0.07
+"11768" "Super Ghouls 'n Ghosts" "GBA" "2002" "Platform" 0.05 0.02 0 0 0.07
+"11772" "Gundam Battle Tactics" "PSP" "2005" "Action" 0 0 0.07 0 0.07
+"11775" "Sky Gunner" "PS2" "2001" "Action" 0.04 0.03 0 0.01 0.07
+"11809" "Godai: Elemental Force" "PS2" "2002" "Action" 0.04 0.03 0 0.01 0.07
+"11818" "I-Ninja" "XB" "2003" "Platform" 0.05 0.02 0 0 0.07
+"11865" "Tak: The Great Juju Challenge" "XB" "2005" "Platform" 0.05 0.02 0 0 0.07
+"11877" "Disney's Donald Duck Advance" "GBA" "2001" "Platform" 0.05 0.02 0 0 0.07
+"11904" "Pitfall: The Lost Expedition" "GBA" "2003" "Platform" 0.05 0.02 0 0 0.07
+"11905" "All-Star Baseball 2004" "GBA" "2003" "Sports" 0.05 0.02 0 0 0.07
+"11907" "Tom Clancy's Splinter Cell: Chaos Theory" "DS" "2005" "Action" 0.06 0 0 0.01 0.07
+"11910" "James Cameron's Dark Angel" "XB" "2002" "Action" 0.05 0.02 0 0 0.07
+"11919" "NCAA College Football 2K3" "GC" "2002" "Sports" 0.05 0.01 0 0 0.07
+"11927" "Famicom Mini: Nazo no Murasame-Jou" "GBA" "2004" "Action" 0 0 0.07 0 0.07
+"11930" "Haunting Ground" "PS2" "2005" "Action" 0.03 0.03 0 0.01 0.07
+"11934" "Disney Sports Skateboarding" "GBA" "2002" "Sports" 0.05 0.02 0 0 0.07
+"11946" "Loons: The Fight For Fame" "XB" "2002" "Action" 0.05 0.02 0 0 0.07
+"11968" "ESPN National Hockey Night" "PS2" "2001" "Sports" 0.03 0.03 0 0.01 0.07
+"11974" "Taz Wanted" "XB" "2002" "Platform" 0.05 0.02 0 0 0.07
+"11975" "Harry Potter and the Sorcerer's Stone" "XB" "2003" "Action" 0.05 0.02 0 0 0.07
+"11980" "Wallace & Gromit in Project Zoo" "GC" "2003" "Platform" 0.05 0.01 0 0 0.07
+"11990" "Samurai Warriors" "XB" "2004" "Action" 0.05 0.02 0 0 0.07
+"11997" "FIFA Soccer 2004" "GC" "2003" "Sports" 0.05 0.01 0 0 0.07
+"12001" "Rayman 3: Hoodlum Havoc" "GC" "2003" "Platform" 0.05 0.01 0 0 0.07
+"12020" "Crimson Sea 2" "PS2" "2004" "Action" 0.03 0.03 0 0.01 0.07
+"12031" "Disney's Winnie the Pooh's Rumbly Tumbly Adventure" "GC" "2005" "Platform" 0.05 0.01 0 0 0.07
+"12036" "Catwoman" "GC" "2004" "Action" 0.05 0.01 0 0 0.07
+"12050" "Spartan: Total Warrior" "GC" "2005" "Action" 0.05 0.01 0 0 0.07
+"12051" "Pitfall: The Lost Expedition" "XB" "2004" "Platform" 0.05 0.01 0 0 0.07
+"12056" "River City Ransom EX" "GBA" "2004" "Action" 0.05 0.02 0 0 0.07
+"12078" "Robot Alchemic Drive" "PS2" "2002" "Action" 0.03 0.03 0 0.01 0.07
+"12091" "NHL 2005" "GC" "2004" "Sports" 0.05 0.01 0 0 0.07
+"12094" "Firefighter F.D.18" "PS2" "2004" "Action" 0.03 0.03 0 0.01 0.07
+"12105" "The Putter Golf" "PS" "2001" "Sports" 0.04 0.03 0 0 0.07
+"12107" "The Powerpuff Girls: Relish Rampage" "GC" "2002" "Action" 0.05 0.01 0 0 0.07
+"12120" "Sega Soccer Slam" "GC" "2002" "Sports" 0.05 0.01 0 0 0.07
+"12133" "Nichibeikan Pro Yakyuu: Final League" "PS2" "2002" "Sports" 0 0 0.07 0 0.07
+"12137" "Spawn: Armageddon" "GC" "2003" "Action" 0.05 0.01 0 0 0.07
+"12149" "FIFA Soccer 06" "GBA" "2005" "Sports" 0.05 0.02 0 0 0.07
+"12150" "RedCard 20-03" "PS2" "2002" "Sports" 0.03 0.03 0 0.01 0.07
+"12163" "Batman: Rise of Sin Tzu" "GBA" "2003" "Action" 0.05 0.02 0 0 0.07
+"12190" "Army Men: Green Rogue" "PS" "2001" "Action" 0.04 0.02 0 0 0.07
+"12199" "Cabela's Big Game Hunter 2005 Adventures" "GC" "2004" "Sports" 0.05 0.01 0 0 0.07
+"12203" "Tokobot" "PSP" "2005" "Platform" 0.06 0 0 0.01 0.07
+"12225" "Frogger Advance: The Great Quest" "GBA" "2002" "Action" 0.05 0.02 0 0 0.07
+"12242" "NHL Hitz Pro" "XB" "2003" "Sports" 0.05 0.01 0 0 0.07
+"12260" "Kabuki Warriors" "XB" "2001" "Action" 0.05 0.01 0 0 0.06
+"12274" "NanoBreaker" "PS2" "2005" "Action" 0.03 0.02 0 0.01 0.06
+"12275" "Bionicle" "XB" "2003" "Action" 0.05 0.01 0 0 0.06
+"12280" "BMX XXX" "GC" "2002" "Sports" 0.05 0.01 0 0 0.06
+"12282" "Disney's Magical Quest 2 Starring Mickey and Minnie" "GBA" "2003" "Action" 0.05 0.02 0 0 0.06
+"12283" "Aggressive Inline" "XB" "2002" "Sports" 0.05 0.01 0 0 0.06
+"12286" "Frogger: Helmet Chaos" "DS" "2005" "Platform" 0.06 0 0 0 0.06
+"12314" "Gallop Racer 2004" "PS2" "2004" "Sports" 0.03 0.02 0 0.01 0.06
+"12315" "Rayman: Hoodlum's Revenge" "GBA" "2005" "Platform" 0.05 0.02 0 0 0.06
+"12324" "Tonka Rescue Patrol" "GC" "2003" "Action" 0.05 0.01 0 0 0.06
+"12335" "Famicom Mini: Balloon Fight" "GBA" "2004" "Action" 0 0 0.06 0 0.06
+"12344" "Tom Clancy's Splinter Cell: Pandora Tomorrow" "GBA" "2004" "Action" 0.05 0.02 0 0 0.06
+"12353" "Deathrow: Underground Team Combat" "XB" "2002" "Sports" 0.05 0.01 0 0 0.06
+"12367" "Mystic Heroes" "PS2" "2002" "Action" 0.03 0.02 0 0.01 0.06
+"12370" "Tron 2.0: Killer App" "GBA" "2004" "Action" 0.04 0.02 0 0 0.06
+"12382" "LEGO Bionicle" "GBA" "2001" "Platform" 0.04 0.02 0 0 0.06
+"12388" "Strike Force Bowling" "GC" "2005" "Sports" 0.05 0.01 0 0 0.06
+"12424" "Barbie Horse Adventures: Wild Horse Rescue" "XB" "2003" "Sports" 0.05 0.01 0 0 0.06
+"12426" "Blast Lacrosse" "PS" "2001" "Sports" 0.03 0.02 0 0 0.06
+"12430" "Kikou Heidan J-Phoenix" "PS2" "2001" "Action" 0 0 0.06 0 0.06
+"12434" "Shonen Jump's Shaman King: Legacy of the Spirits - Soaring Hawk/Sprinting Wolf" "GBA" "2005" "Action" 0.04 0.02 0 0 0.06
+"12444" "Cold Fear" "XB" "2005" "Action" 0.05 0.01 0 0 0.06
+"12460" "The Great Escape" "XB" "2003" "Action" 0.05 0.01 0 0 0.06
+"12463" "Metal Gear Solid: Social Ops" "PS2" "2002" "Action" 0.03 0.02 0 0.01 0.06
+"12470" "Salt Lake 2002" "GBA" "2002" "Sports" 0.04 0.02 0 0 0.06
+"12473" "Vexx" "GC" "2003" "Platform" 0.05 0.01 0 0 0.06
+"12477" "Batman: Rise of Sin Tzu" "GC" "2003" "Action" 0.05 0.01 0 0 0.06
+"12483" "Disney Sports Skateboarding" "GC" "2002" "Sports" 0.05 0.01 0 0 0.06
+"12547" "Rapala Pro Fishing" "GBA" "2004" "Sports" 0.04 0.02 0 0 0.06
+"12566" "World Soccer Winning Eleven 9 (US sales)" "PSP" "2005" "Sports" 0.05 0 0 0 0.06
+"12568" "Oddworld: Munch's Oddysee" "GBA" "2003" "Platform" 0.04 0.02 0 0 0.06
+"12578" "Klonoa Beach Volleyball" "PS" "2002" "Sports" 0.03 0.02 0 0 0.06
+"12582" "Teenage Mutant Ninja Turtles 3: Mutant Nightmare" "DS" "2005" "Action" 0.05 0 0 0 0.06
+"12587" "Hi Hi Puffy AmiYumi: Kaznapped" "GBA" "2005" "Action" 0.04 0.02 0 0 0.06
+"12589" "Resident Evil - Code: Veronica X" "GC" "2003" "Action" 0.05 0.01 0 0 0.06
+"12594" "Kelly Slater's Pro Surfer" "GC" "2002" "Sports" 0.05 0.01 0 0 0.06
+"12599" "Trapt" "PS2" "2005" "Action" 0.03 0.02 0 0.01 0.06
+"12601" "Splat Renegade Paintball" "XB" "2005" "Sports" 0.04 0.01 0 0 0.06
+"12619" "Archer Maclean Presents: Pool Paradise" "PS2" "2004" "Sports" 0.03 0.02 0 0.01 0.06
+"12624" "Backyard Skateboarding 2006" "GBA" "2004" "Sports" 0.04 0.02 0 0 0.06
+"12625" "Tron 2.0: Killer App" "XB" "2004" "Action" 0.04 0.01 0 0 0.06
+"12666" "Fatal Frame" "XB" "2002" "Action" 0.04 0.01 0 0 0.06
+"12675" "Resident Evil 2" "GC" "2003" "Action" 0.04 0.01 0 0 0.06
+"12685" "Harry Potter and the Sorcerer's Stone" "PC" "2001" "Action" 0.01 0.04 0 0.01 0.06
+"12688" "Catwoman" "XB" "2004" "Action" 0.04 0.01 0 0 0.06
+"12702" "Eikan wa Kimini 2002: Koshien no Kodou" "PS2" "2002" "Sports" 0 0 0.06 0 0.06
+"12706" "Terminator 3: Rise of the Machines" "GBA" "2003" "Action" 0.04 0.02 0 0 0.06
+"12711" "Constantine" "XB" "2005" "Action" 0.04 0.01 0 0 0.06
+"12721" "Samurai Jack: The Shadow of Aku" "PS2" "2004" "Action" 0.03 0.02 0 0.01 0.06
+"12725" "FIFA Street" "GC" "2005" "Sports" 0.04 0.01 0 0 0.06
+"12729" "Aggressive Inline" "GC" "2002" "Sports" 0.04 0.01 0 0 0.06
+"12732" "Viewtiful Joe: Red Hot Rumble" "GC" "2005" "Action" 0.04 0.01 0 0 0.06
+"12739" "FIFA Soccer 06" "DS" "2005" "Sports" 0.05 0 0 0 0.06
+"12749" "Dr. Muto" "XB" "2002" "Platform" 0.04 0.01 0 0 0.06
+"12775" "ESPN International Winter Sports 2002" "PS2" "2002" "Sports" 0.03 0.02 0 0.01 0.06
+"12782" "BattleBots: Beyond the BattleBox" "GBA" "2002" "Action" 0.04 0.01 0 0 0.06
+"12802" "Cabela's Big Game Hunter 2005 Adventures" "GBA" "2004" "Sports" 0.04 0.01 0 0 0.06
+"12816" "Carmen Sandiego: The Secret of the Stolen Drums" "PS2" "2004" "Action" 0.03 0.02 0 0.01 0.06
+"12838" "Gladiator: Sword of Vengeance" "XB" "2003" "Action" 0.04 0.01 0 0 0.05
+"12857" "NFL Quarterback Club 2002" "GC" "2001" "Sports" 0.04 0.01 0 0 0.05
+"12866" "Sega Soccer Slam" "XB" "2002" "Sports" 0.04 0.01 0 0 0.05
+"12869" "Blood Omen 2" "GC" "2002" "Action" 0.04 0.01 0 0 0.05
+"12877" "WTA Tour Tennis" "PS2" "2001" "Sports" 0.03 0.02 0 0.01 0.05
+"12879" "Dynasty Warriors 5" "XB" "2005" "Action" 0.04 0.01 0 0 0.05
+"12882" "FIFA Soccer 2003" "GBA" "2002" "Sports" 0.04 0.01 0 0 0.05
+"12894" "UEFA Euro 2004: Portugal" "XB" "2004" "Sports" 0.04 0.01 0 0 0.05
+"12897" "Shaman King: Soul Fight" "GC" "2003" "Platform" 0 0 0.05 0 0.05
+"12903" "Zapper: One Wicked Cricket!" "XB" "2002" "Platform" 0.04 0.01 0 0 0.05
+"12907" "Sitting Ducks" "PS2" "2003" "Platform" 0.03 0.02 0 0.01 0.05
+"12912" "NFL Blitz Pro" "XB" "2003" "Sports" 0.04 0.01 0 0 0.05
+"12924" "Wakeboarding Unleashed Featuring Shaun Murray" "XB" "2003" "Sports" 0.04 0.01 0 0 0.05
+"12942" "King Arthur" "XB" "2004" "Action" 0.04 0.01 0 0 0.05
+"12951" "Dragon's Lair 3D: Return to the Lair" "XB" "2002" "Platform" 0.04 0.01 0 0 0.05
+"12965" "Virtua Striker 2002" "GC" "2002" "Sports" 0.01 0 0.03 0 0.05
+"12973" "Disney's PK: Out of the Shadows" "GC" "2002" "Platform" 0.04 0.01 0 0 0.05
+"12985" "Otogi 2: Immortal Warriors" "XB" "2003" "Action" 0.04 0.01 0 0 0.05
+"12986" "Legend of Kay" "PS2" "2005" "Action" 0.03 0.02 0 0.01 0.05
+"12987" "Piglet's Big Game" "GC" "2003" "Platform" 0.04 0.01 0 0 0.05
+"12998" "Piglet's Big Game" "GBA" "2003" "Platform" 0.04 0.01 0 0 0.05
+"13027" "Monster! Bass Fishing" "GBA" "2003" "Sports" 0.04 0.01 0 0 0.05
+"13041" "FIFA Soccer 2004" "GBA" "2003" "Sports" 0.04 0.01 0 0 0.05
+"13050" "Tennis no Oji-Sama: 2005 Crystal Drive" "DS" "2004" "Sports" 0 0 0.05 0 0.05
+"13060" "Yanya Caballista: City Skater" "PS2" "2001" "Sports" 0.02 0.02 0 0.01 0.05
+"13102" "Jim Henson's Muppets in Spy Muppets: License to Croak" "GBA" "2003" "Action" 0.04 0.01 0 0 0.05
+"13105" "Alias" "XB" "2004" "Action" 0.04 0.01 0 0 0.05
+"13108" "ESPN International Winter Sports 2002" "GC" "2002" "Sports" 0.04 0.01 0 0 0.05
+"13130" "Dr. Seuss: Green Eggs and Ham" "GBA" "2003" "Action" 0.04 0.01 0 0 0.05
+"13134" "Dark Summit" "GC" "2002" "Sports" 0.04 0.01 0 0 0.05
+"13151" "Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E." "GC" "2005" "Platform" 0.04 0.01 0 0 0.05
+"13160" "Ty the Tasmanian Tiger 3: Night of the Quinkan" "GBA" "2005" "Action" 0.04 0.01 0 0 0.05
+"13167" "Stretch Panic" "PS2" "2001" "Platform" 0.02 0.02 0 0.01 0.05
+"13173" "Rogue Ops" "GC" "2003" "Action" 0.04 0.01 0 0 0.05
+"13181" "Woody Woodpecker: Escape from Buzz Buzzard Park" "PS2" "2001" "Platform" 0.02 0.02 0 0.01 0.05
+"13193" "Around the World in 80 Days" "GBA" "2004" "Action" 0.03 0.01 0 0 0.05
+"13197" "Whirl Tour" "GC" "2002" "Sports" 0.04 0.01 0 0 0.05
+"13237" "Finny the Fish & the Seven Waters" "PS2" "2004" "Sports" 0.02 0.02 0 0.01 0.05
+"13245" "Crime Life: Gang Wars" "XB" "2005" "Action" 0.04 0.01 0 0 0.05
+"13248" "Rugby 2005" "XB" "2005" "Sports" 0.04 0.01 0 0 0.05
+"13258" "American Bass Challenge" "GBA" "2001" "Sports" 0.03 0.01 0 0 0.05
+"13264" "Fatal Frame II: Crimson Butterfly Director's Cut" "XB" "2004" "Action" 0.04 0.01 0 0 0.05
+"13266" "2002 FIFA World Cup" "GC" "2002" "Sports" 0.04 0.01 0 0 0.05
+"13280" "Ribbit King" "GC" "2003" "Sports" 0.04 0.01 0 0 0.05
+"13296" "ESPN Great Outdoor Games Bass 2002" "GBA" "2001" "Sports" 0.03 0.01 0 0 0.05
+"13308" "World Championship Pool 2004" "PS2" "2004" "Sports" 0.02 0.02 0 0.01 0.05
+"13320" "Frogger: Ancient Shadow" "GC" "2005" "Platform" 0.04 0.01 0 0 0.05
+"13340" "NightCaster II: Equinox" "XB" "2002" "Action" 0.03 0.01 0 0 0.05
+"13369" "Mafia" "PC" "2002" "Action" 0 0.04 0 0.01 0.05
+"13389" "Rimo-Cocoron" "PS2" "2001" "Action" 0 0 0.05 0 0.05
+"13391" "Mike Tyson Heavyweight Boxing" "XB" "2002" "Sports" 0.03 0.01 0 0 0.05
+"13393" "The Berenstain Bears and the Spooky Old Tree" "GBA" "2005" "Platform" 0.03 0.01 0 0 0.05
+"13418" "Double Dragon Advance" "GBA" "2003" "Action" 0.03 0.01 0 0 0.05
+"13423" "World Fantasista" "PS2" "2002" "Sports" 0 0 0.05 0 0.05
+"13432" "Futurama" "XB" "2003" "Platform" 0.03 0.01 0 0 0.05
+"13477" "Disney's Donald Duck: Goin' Quackers" "GC" "2002" "Platform" 0.03 0.01 0 0 0.04
+"13489" "Roswell Conspiracies: Aliens, Myths & Legends" "PS" "2001" "Action" 0.02 0.02 0 0 0.04
+"13501" "Crushed Baseball" "GBA" "2004" "Sports" 0.03 0.01 0 0 0.04
+"13529" "Spy Fiction" "PS2" "2003" "Action" 0.02 0.02 0 0.01 0.04
+"13531" "Justice League: Chronicles" "GBA" "2003" "Platform" 0.03 0.01 0 0 0.04
+"13540" "King Arthur" "GC" "2004" "Action" 0.03 0.01 0 0 0.04
+"13541" "Chicken Shoot" "GBA" "2005" "Action" 0.03 0.01 0 0 0.04
+"13572" "Strike Force Bowling" "XB" "2004" "Sports" 0.03 0.01 0 0 0.04
+"13576" "Red Ninja: End of Honor" "PS2" "2005" "Action" 0.02 0.02 0 0.01 0.04
+"13587" "Outlaw Tennis" "XB" "2005" "Sports" 0.03 0.01 0 0 0.04
+"13592" "No Rules: Get Phat" "GBA" "2001" "Action" 0.03 0.01 0 0 0.04
+"13601" "The Invincible Iron Man" "GBA" "2002" "Action" 0.03 0.01 0 0 0.04
+"13605" "Maken Shao: Demon Sword" "PS2" "2001" "Action" 0 0 0.04 0 0.04
+"13609" "Scaler" "XB" "2004" "Platform" 0.03 0.01 0 0 0.04
+"13612" "FIFA Soccer 2003 (weekly jp sales)" "PS2" "2002" "Sports" 0 0 0.04 0 0.04
+"13614" "High Heat Baseball 2002" "PS" "2001" "Sports" 0.02 0.02 0 0 0.04
+"13622" "Tennis Masters Series 2003" "XB" "2002" "Sports" 0.03 0.01 0 0 0.04
+"13627" "MLB SlugFest 20-04" "GC" "2003" "Sports" 0.03 0.01 0 0 0.04
+"13685" "Yourself Fitness" "PS2" "2005" "Sports" 0.02 0.02 0 0.01 0.04
+"13698" "Catwoman" "GBA" "2004" "Action" 0.03 0.01 0 0 0.04
+"13719" "Aeon Flux" "PS2" "2005" "Action" 0.02 0.02 0 0.01 0.04
+"13727" "Mat Hoffman's Pro BMX 2" "GC" "2002" "Sports" 0.03 0.01 0 0 0.04
+"13733" "Grand Theft Auto: Vice City" "PC" "2003" "Action" 0 0.03 0 0.01 0.04
+"13744" "Superman: Countdown to Apokolips" "GBA" "2003" "Platform" 0.03 0.01 0 0 0.04
+"13746" "Kikou Heidan J-Phoenix 2" "PS2" "2003" "Action" 0 0 0.04 0 0.04
+"13748" "Dragon's Lair 3D: Return to the Lair" "GC" "2002" "Platform" 0.03 0.01 0 0 0.04
+"13755" "Super Black Bass Fishing" "DS" "2005" "Sports" 0.04 0 0 0 0.04
+"13774" "Mike Tyson Boxing" "GBA" "2002" "Sports" 0.03 0.01 0 0 0.04
+"13781" "Fisherman's Challenge" "PS2" "2003" "Sports" 0.02 0.02 0 0.01 0.04
+"13784" "Mission: Impossible - Operation Surma" "GBA" "2003" "Platform" 0.03 0.01 0 0 0.04
+"13817" "Headhunter: Redemption" "PS2" "2004" "Action" 0.02 0.01 0 0 0.04
+"13829" "Tiger Woods PGA Tour Golf" "GBA" "2002" "Sports" 0.03 0.01 0 0 0.04
+"13848" "Outlaw Volleyball Remixed" "PS2" "2004" "Sports" 0.02 0.01 0 0 0.04
+"13879" "Stolen" "PS2" "2005" "Action" 0.02 0.01 0 0 0.04
+"13897" "E.T. The Extra-Terrestrial: Interplanetary Mission" "PS" "2001" "Platform" 0.02 0.01 0 0 0.04
+"13903" "Dramatic Soccer Game: Nippon Daihyou Senshu Ninarou!" "PS2" "2002" "Sports" 0 0 0.04 0 0.04
+"13906" "Harry Potter and the Prisoner of Azkaban" "PC" "2004" "Action" 0 0.03 0 0.01 0.04
+"13914" "Dragon Ball: Advanced Adventure" "GBA" "2004" "Action" 0.03 0.01 0 0 0.04
+"13918" "The Ripping Friends" "GBA" "2002" "Action" 0.03 0.01 0 0 0.04
+"13922" "Super Army War" "GBA" "2005" "Action" 0.03 0.01 0 0 0.04
+"13935" "Evolution Skateboarding" "GC" "2002" "Sports" 0.03 0.01 0 0 0.04
+"13938" "Jikkyou World Soccer 2002" "PS2" "2002" "Sports" 0 0 0.04 0 0.04
+"13960" "Cy Girls" "PS2" "2004" "Action" 0.02 0.01 0 0 0.04
+"13966" "Minority Report: Everybody Runs" "GBA" "2002" "Action" 0.03 0.01 0 0 0.04
+"13970" "Garfield: The Search for Pooky" "GBA" "2003" "Platform" 0.03 0.01 0 0 0.04
+"13980" "Gumby vs. the Astrobots" "GBA" "2005" "Action" 0.03 0.01 0 0 0.04
+"13985" "Scaler" "GC" "2004" "Platform" 0.03 0.01 0 0 0.04
+"14004" "Teenage Mutant Ninja Turtles 3: Mutant Nightmare" "XB" "2005" "Action" 0.03 0.01 0 0 0.04
+"14009" "Beatdown: Fists of Vengeance" "XB" "2005" "Action" 0.03 0.01 0 0 0.04
+"14020" "World Championship Pool 2004" "XB" "2003" "Sports" 0.03 0.01 0 0 0.04
+"14032" "Stadium Games" "GBA" "2003" "Sports" 0.03 0.01 0 0 0.04
+"14044" "Hot Potato!" "GBA" "2001" "Action" 0.03 0.01 0 0 0.04
+"14075" "Hello Kitty: Roller Rescue" "PC" "2005" "Action" 0 0.03 0 0 0.04
+"14106" "Alienators: Evolution Continues" "GBA" "2001" "Action" 0.03 0.01 0 0 0.03
+"14117" "RedCard 20-03" "XB" "2002" "Sports" 0.03 0.01 0 0 0.03
+"14120" "Asterix & Obelix: Kick Buttix" "PS2" "2004" "Action" 0.02 0.01 0 0 0.03
+"14123" "Care Bears - Care Quest" "GBA" "2005" "Action" 0.02 0.01 0 0 0.03
+"14126" "Championship Manager Season 01/02" "PC" "2001" "Sports" 0 0.03 0 0.01 0.03
+"14129" "Boboboubo Boubobo: Ougi 87.5 Bakuretsu Hanage Shinken" "GBA" "2002" "Action" 0 0 0.03 0 0.03
+"14137" "Sky Dancers" "GBA" "2005" "Action" 0.02 0.01 0 0 0.03
+"14149" "ESPN NBA 2Night 2002" "PS2" "2002" "Sports" 0.02 0.01 0 0 0.03
+"14150" "Cabela's Dangerous Hunts 2" "GC" "2005" "Sports" 0.03 0.01 0 0 0.03
+"14156" "Crouching Tiger, Hidden Dragon" "GBA" "2003" "Action" 0.02 0.01 0 0 0.03
+"14188" "Battle Assault 3 featuring Gundam Seed" "PS2" "2004" "Action" 0.02 0.01 0 0 0.03
+"14194" "Cabela's Outdoor Adventures" "GC" "2005" "Sports" 0.03 0.01 0 0 0.03
+"14196" "Backyard NFL Football 2006" "GBA" "2005" "Sports" 0.02 0.01 0 0 0.03
+"14201" "An American Tail: Fievel's Gold Rush" "GBA" "2002" "Platform" 0.02 0.01 0 0 0.03
+"14211" "M&Ms Shell Shocked" "PS" "2001" "Action" 0.02 0.01 0 0 0.03
+"14225" "James Pond: Codename Robocod" "GBA" "2005" "Platform" 0.02 0.01 0 0 0.03
+"14248" "Project Gotham Racing 2 (JP weekly sales)" "XB" "2003" "Action" 0 0 0.03 0 0.03
+"14251" "CT Special Forces" "GBA" "2002" "Action" 0.02 0.01 0 0 0.03
+"14257" "Earthworm Jim 2" "GBA" "2002" "Platform" 0.02 0.01 0 0 0.03
+"14279" "Disney Sports Soccer" "GC" "2002" "Sports" 0.03 0.01 0 0 0.03
+"14286" "Disney's Hide & Sneak" "GC" "2003" "Action" 0.03 0.01 0 0 0.03
+"14299" "Elf Bowling 1 & 2" "GBA" "2005" "Sports" 0.02 0.01 0 0 0.03
+"14308" "The Flintstones: Big Trouble in Bedrock" "GBA" "2001" "Platform" 0.02 0.01 0 0 0.03
+"14324" "Tork: Prehistoric Punk" "XB" "2005" "Platform" 0.02 0.01 0 0 0.03
+"14355" "Totally Spies!" "GBA" "2005" "Platform" 0.02 0.01 0 0 0.03
+"14361" "RoadKill" "GC" "2003" "Action" 0.02 0.01 0 0 0.03
+"14373" "Sitting Ducks" "GBA" "2003" "Platform" 0.02 0.01 0 0 0.03
+"14389" "Rayman 3: Hoodlum Havoc" "PC" "2003" "Platform" 0 0.03 0 0.01 0.03
+"14394" "Dr. Muto" "GC" "2002" "Platform" 0.02 0.01 0 0 0.03
+"14425" "Galleon: Islands of Mystery" "XB" "2004" "Action" 0.02 0.01 0 0 0.03
+"14431" "Sunny Garcia Surfing" "PS2" "2001" "Sports" 0.02 0.01 0 0 0.03
+"14449" "Go! Go! Hypergrind" "GC" "2003" "Sports" 0.02 0.01 0 0 0.03
+"14463" "Zoboomafoo: Leapin' Lemurs!" "PS" "2001" "Action" 0.02 0.01 0 0 0.03
+"14477" "Klonoa 2: Dream Champ Tournament" "GBA" "2002" "Platform" 0.02 0.01 0 0 0.03
+"14537" "Street Jam Basketball" "GBA" "2004" "Sports" 0.02 0.01 0 0 0.03
+"14543" "Disney's Aladdin" "GBA" "2003" "Platform" 0.02 0.01 0 0 0.03
+"14545" "Virtual Pool: Tournament Edition" "XB" "2005" "Sports" 0.02 0.01 0 0 0.03
+"14553" "Popeye: Rush for Spinach" "GBA" "2005" "Platform" 0.02 0.01 0 0 0.03
+"14561" "Planet of the Apes" "GBA" "2001" "Action" 0.02 0.01 0 0 0.03
+"14579" "Syberia" "PC" "2002" "Action" 0 0.02 0 0 0.03
+"14591" "Wallace & Gromit in Project Zoo" "XB" "2003" "Platform" 0.02 0.01 0 0 0.03
+"14601" "Gekido Advance: Kintaro's Revenge" "GBA" "2002" "Action" 0.02 0.01 0 0 0.03
+"14614" "Buffy the Vampire Slayer: Wrath of the Darkhul King" "GBA" "2003" "Action" 0.02 0.01 0 0 0.03
+"14660" "Fireblade" "GC" "2002" "Action" 0.02 0.01 0 0 0.03
+"14661" "Kong: King of Atlantis" "GBA" "2005" "Action" 0.02 0.01 0 0 0.03
+"14663" "Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki" "DS" "2005" "Action" 0 0 0.03 0 0.03
+"14669" "ESPN Winter X Games: Snowboarding 2002" "XB" "2002" "Sports" 0.02 0.01 0 0 0.03
+"14684" "Animaniacs: The Great Edgar Hunt" "GC" "2005" "Platform" 0.02 0.01 0 0 0.03
+"14706" "Disney Sports Soccer" "GBA" "2002" "Sports" 0.02 0.01 0 0 0.03
+"14717" "Pro Cast Sports Fishing" "XB" "2003" "Sports" 0.02 0.01 0 0 0.03
+"14732" "Dave Mirra Freestyle BMX 3" "GBA" "2002" "Sports" 0.02 0.01 0 0 0.03
+"14738" "Frogger: Ancient Shadow" "XB" "2005" "Platform" 0.02 0.01 0 0 0.03
+"14769" "Buffy the Vampire Slayer: Chaos Bleeds" "GC" "2003" "Action" 0.02 0.01 0 0 0.03
+"14774" "Jet Grind Radio" "GBA" "2003" "Action" 0.02 0.01 0 0 0.03
+"14783" "Under the Skin" "PS2" "2004" "Action" 0.01 0.01 0 0 0.03
+"14799" "Archer Maclean Presents: Pool Paradise" "GC" "2004" "Sports" 0.02 0.01 0 0 0.03
+"14830" "River King: Wonderful Journey" "PS2" "2005" "Sports" 0.01 0.01 0 0 0.03
+"14947" "Jikkyou Powerful Pro Yakyuu 12 Ketteiban" "GC" "2005" "Sports" 0 0 0.02 0 0.02
+"14951" "Virtua Tennis: World Tour (jp sales)" "PSP" "2005" "Sports" 0 0 0.02 0 0.02
+"14958" "NBA Starting Five" "XB" "2002" "Sports" 0.02 0.01 0 0 0.02
+"14964" "Carmen Sandiego: The Secret of the Stolen Drums" "XB" "2004" "Action" 0.02 0.01 0 0 0.02
+"14965" "Disney's Magical Quest 3 Starring Mickey and Donald" "GBA" "2003" "Action" 0.02 0.01 0 0 0.02
+"14976" "Ed, Edd n Eddy: The Mis-Edventures" "XB" "2005" "Platform" 0.02 0.01 0 0 0.02
+"14988" "Ty the Tasmanian Tiger 3: Night of the Quinkan" "XB" "2005" "Action" 0.02 0.01 0 0 0.02
+"15012" "Peter Pan in Disney's Return to Never Land" "PS" "2002" "Platform" 0.01 0.01 0 0 0.02
+"15064" "Blender Bros." "GBA" "2002" "Platform" 0.02 0.01 0 0 0.02
+"15094" "Toxic Grind" "XB" "2002" "Sports" 0.02 0 0 0 0.02
+"15099" "ScrapLand" "XB" "2005" "Action" 0.02 0 0 0 0.02
+"15119" "Pro Fishing Challenge" "XB" "2004" "Sports" 0.02 0 0 0 0.02
+"15127" "Jitsumei Jikkyou Keiba Dream Classic 2002" "PS2" "2002" "Sports" 0 0 0.02 0 0.02
+"15134" "RedCard 20-03" "GC" "2002" "Sports" 0.02 0 0 0 0.02
+"15150" "NFL Blitz Pro" "GC" "2003" "Sports" 0.02 0 0 0 0.02
+"15159" "SBK: Snowboard Kids" "DS" "2005" "Sports" 0.02 0 0 0 0.02
+"15165" "Evolution Snowboarding" "PS2" "2002" "Sports" 0.01 0.01 0 0 0.02
+"15197" "Knight's Apprentice: Memorick's Adventures" "XB" "2004" "Action" 0.02 0 0 0 0.02
+"15231" "Carmen Sandiego: The Secret of the Stolen Drums" "GC" "2004" "Action" 0.02 0 0 0 0.02
+"15248" "Kao Challengers" "PSP" "2005" "Platform" 0.02 0 0 0 0.02
+"15296" "Casper: Spirit Dimensions" "GC" "2002" "Platform" 0.02 0 0 0 0.02
+"15320" "Wakeboarding Unleashed Featuring Shaun Murray" "GBA" "2003" "Sports" 0.01 0.01 0 0 0.02
+"15322" "Kikou Heidan J-Phoenix: Cobalt Shoutaihen" "PS2" "2002" "Action" 0 0 0.02 0 0.02
+"15349" "Disney Sports Football" "GBA" "2002" "Sports" 0.01 0.01 0 0 0.02
+"15355" "Headhunter: Redemption" "XB" "2004" "Action" 0.02 0 0 0 0.02
+"15362" "Prehistorik Man" "GBA" "2001" "Platform" 0.01 0.01 0 0 0.02
+"15402" "ESPN MLS ExtraTime 2002" "GC" "2002" "Sports" 0.02 0 0 0 0.02
+"15426" "Malice" "PS2" "2004" "Platform" 0.01 0.01 0 0 0.02
+"15485" "Rainbow Islands Revolution" "DS" "2005" "Platform" 0.01 0 0 0 0.02
+"15488" "Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E." "XB" "2005" "Platform" 0.01 0 0 0 0.02
+"15500" "ESPN MLS ExtraTime 2002" "XB" "2002" "Sports" 0.01 0 0 0 0.02
+"15522" "Charlie's Angels" "GC" "2003" "Action" 0.01 0 0 0 0.02
+"15538" "The Mummy" "GBA" "2002" "Action" 0.01 0 0 0 0.02
+"15581" "Elf Bowling 1 & 2" "DS" "2005" "Sports" 0.02 0 0 0 0.02
+"15593" "ESPN NFL Primetime 2002" "XB" "2002" "Sports" 0.01 0 0 0 0.02
+"15596" "Red Ninja: End of Honor" "XB" "2005" "Action" 0.01 0 0 0 0.02
+"15609" "Kong: The Animated Series" "GBA" "2002" "Action" 0.01 0 0 0 0.02
+"15645" "NHL 2K3" "GC" "2002" "Sports" 0.01 0 0 0 0.02
+"15654" "Disney Sports Basketball" "GBA" "2002" "Sports" 0.01 0 0 0 0.02
+"15656" "Ozzy & Drix" "GBA" "2003" "Platform" 0.01 0 0 0 0.02
+"15662" "Disney Sports Football" "GC" "2002" "Sports" 0.01 0 0 0 0.02
+"15676" "Spirits & Spells" "GC" "2003" "Platform" 0.01 0 0 0 0.02
+"15762" "One Piece Mansion" "PS" "2001" "Action" 0.01 0.01 0 0 0.02
+"15780" "Big Bass Fishing" "PS" "2002" "Action" 0 0 0.02 0 0.02
+"15788" "LEGO Star Wars: The Video Game" "PC" "2005" "Action" 0 0.01 0 0 0.02
+"15793" "WTA Tour Tennis" "GBA" "2002" "Sports" 0.01 0 0 0 0.02
+"15800" "Davis Cup Tennis" "GBA" "2002" "Sports" 0.01 0 0 0 0.02
+"15816" "Samurai Jack: The Shadow of Aku" "GC" "2004" "Action" 0.01 0 0 0 0.02
+"15820" "The Incredibles: Rise of the Underminer" "PC" "2005" "Action" 0.01 0 0 0 0.02
+"15834" "Kao the Kangaroo Round 2" "GC" "2005" "Platform" 0.01 0 0 0 0.02
+"15889" "Worldwide Soccer Manager 2006" "PC" "2004" "Sports" 0 0.01 0 0 0.02
+"15891" "Mission: Impossible - Operation Surma" "GC" "2004" "Platform" 0.01 0 0 0 0.02
+"15910" "Kao the Kangaroo Round 2" "PS2" "2005" "Platform" 0.01 0.01 0 0 0.02
+"15914" "Dragon Tales: Dragon Adventures" "GBA" "2003" "Platform" 0.01 0 0 0 0.02
+"15920" "Rayman 10th Anniversary" "GBA" "2005" "Platform" 0.01 0 0 0 0.02
+"15988" "Blackthorne" "GBA" "2003" "Action" 0.01 0 0 0 0.01
+"16027" "Ten Pin Alley 2" "GBA" "2004" "Sports" 0.01 0 0 0 0.01
+"16094" "Grand Theft Auto III" "PC" "2002" "Action" 0 0.01 0 0 0.01
+"16102" "Aeon Flux" "XB" "2005" "Action" 0.01 0 0 0 0.01
+"16119" "Football Manager 2005" "PC" "2004" "Sports" 0 0.01 0 0 0.01
+"16139" "WTA Tour Tennis" "XB" "2002" "Sports" 0.01 0 0 0 0.01
+"16144" "Harry Potter and the Chamber of Secrets" "PC" "2002" "Action" 0 0.01 0 0 0.01
+"16160" "Malice" "XB" "2004" "Platform" 0.01 0 0 0 0.01
+"16163" "Tiger Woods PGA Tour 2005" "PC" "2004" "Sports" 0 0.01 0 0 0.01
+"16239" "Kao the Kangaroo" "GBA" "2001" "Platform" 0.01 0 0 0 0.01
+"16250" "Aquaman: Battle for Atlantis" "GC" "2003" "Action" 0.01 0 0 0 0.01
+"16296" "Rainbow Islands: Revolution" "PSP" "2005" "Action" 0.01 0 0 0 0.01
+"16347" "Dinotopia: The Sunstone Odyssey" "XB" "2003" "Action" 0.01 0 0 0 0.01
+"16352" "World Snooker Challenge 2005" "PSP" "2005" "Sports" 0 0.01 0 0 0.01
+"16373" "Crouching Tiger, Hidden Dragon" "XB" "2003" "Action" 0.01 0 0 0 0.01
+"16427" "ESPN NBA 2Night 2002" "XB" "2002" "Sports" 0.01 0 0 0 0.01
+"16440" "Shin Sangoku Musou 4 Special" "X360" "2005" "Action" 0 0 0.01 0 0.01
+"16446" "Wade Hixton's Counter Punch" "GBA" "2004" "Sports" 0.01 0 0 0 0.01
+"16448" "Legacy of Kain: Defiance" "PC" "2003" "Action" 0 0.01 0 0 0.01
+"16462" "Razor Freestyle Scooter" "GBA" "2001" "Sports" 0.01 0 0 0 0.01
+"16550" "E.T. The Extra-Terrestrial" "GBA" "2001" "Action" 0.01 0 0 0 0.01
+"16583" "Planet Monsters" "GBA" "2001" "Action" 0.01 0 0 0 0.01
+"16594" "Woody Woodpecker in Crazy Castle 5" "GBA" "2002" "Platform" 0.01 0 0 0 0.01
+"16598" "Spirits & Spells" "GBA" "2003" "Platform" 0.01 0 0 0 0.01
