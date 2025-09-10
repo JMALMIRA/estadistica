@@ -1,7 +1,7 @@
 pillow
 matplotlib
 numpy
-cryptography
+empiricaldist
 pandas
 scipy
 seaborn
